@@ -1,0 +1,1827 @@
+SrNo,CalendarDate,Sales,CategoryByGender,Categories,Brand,Colors,Size,In_Stock,Discount,Customer_Return,Rating
+d1,01/01/15,16436,Women,Stilettos,Tommy Hilfiger,White,39,Yes,Yes,Yes,1
+d2,02/01/15,16419,Men,Flip Flops,Tommy Hilfiger,White,37,Yes,No,No,5
+d3,03/01/15,16119,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,Yes,Yes,1
+d4,04/01/15,14097,Men,Sneakers,Coach,Pink,38,Yes,Yes,Yes,1
+d5,05/01/15,15548,Men,Flip Flops,Aldo,Black,40,Yes,No,No,5
+d6,06/01/15,14395,Men,Flip Flops,Coach,Pink,38,Yes,Yes,No,4
+d7,07/01/15,14725,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d8,08/01/15,14044,Men,Sneakers,Tommy Hilfiger,White,40,Yes,No,No,5
+d9,09/01/15,15949,Women,Stilettos,Kate Spade,Red,38,Yes,No,No,3
+d10,10/01/15,15454,Men,Boots,Kate Spade,Red,39,Yes,Yes,No,5
+d11,11/01/15,14660,Men,Boots,Aldo,Black,39,Yes,No,Yes,1
+d12,12/01/15,13912,Women,Stilettos,Aldo,Black,41,Yes,No,No,5
+d13,13/01/15,14251,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d14,14/01/15,16039,Men,Boots,Adidas,Blue,41,Yes,No,Yes,1
+d15,15/01/15,14942,Men,Sneakers,Adidas,Blue,40,Yes,No,No,5
+d16,16/01/15,13996,Women,Wedges,Kate Spade,Red,40,Yes,Yes,No,4
+d17,17/01/15,14320,Men,Flip Flops,Coach,Pink,39,Yes,No,Yes,1
+d18,18/01/15,16155,Men,Sneakers,Kate Spade,Red,40,Yes,No,No,5
+d19,19/01/15,15425,Men,Sneakers,Adidas,Blue,41,Yes,Yes,No,3
+d20,20/01/15,15032,Men,Boots,Aldo,Black,38,Yes,No,No,5
+d21,21/01/15,14227,Men,Flip Flops,Kate Spade,Red,38,Yes,No,No,5
+d22,22/01/15,14924,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d23,23/01/15,15460,Men,Boots,Adidas,Blue,38,Yes,No,No,5
+d24,24/01/15,14489,Men,Flip Flops,Coach,Pink,39,Yes,No,No,5
+d25,25/01/15,13850,Women,Stilettos,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d26,26/01/15,13719,Women,Stilettos,Kate Spade,Red,39,Yes,No,No,5
+d27,27/01/15,16054,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,No,No,4
+d28,28/01/15,15082,Men,Boots,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d29,29/01/15,15130,Men,Flip Flops,Adidas,Blue,37,Yes,Yes,No,5
+d30,30/01/15,14491,Men,Sneakers,Coach,Pink,41,Yes,No,No,5
+d31,31/01/15,15401,Men,Sneakers,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d32,01/02/15,15074,Men,Flip Flops,Aldo,Black,37,Yes,Yes,Yes,1
+d33,02/02/15,14303,Men,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d34,03/02/15,13517,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d35,04/02/15,14533,Men,Boots,Kate Spade,Red,39,Yes,Yes,No,5
+d36,05/02/15,15082,Men,Flip Flops,Coach,Pink,40,Yes,Yes,No,5
+d37,06/02/15,14594,Women,Stilettos,Tommy Hilfiger,White,40,Yes,Yes,No,4
+d38,07/02/15,13454,Men,Flip Flops,Adidas,Blue,41,Yes,Yes,No,5
+d39,08/02/15,13842,Women,Wedges,Tommy Hilfiger,White,39,Yes,No,No,5
+d40,09/02/15,15516,Men,Boots,Adidas,Blue,38,Yes,No,No,5
+d41,10/02/15,14944,Women,Stilettos,Kate Spade,Red,38,Yes,Yes,No,5
+d42,11/02/15,14837,Women,Stilettos,Aldo,Black,41,Yes,No,Yes,1
+d43,12/02/15,19556,Men,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d44,13/02/15,15480,Men,Boots,Tommy Hilfiger,White,40,Yes,No,No,5
+d45,14/02/15,16826,Men,Flip Flops,Coach,Pink,40,Yes,No,No,5
+d46,15/02/15,18910,Men,Flip Flops,Coach,Pink,39,Yes,Yes,No,5
+d47,16/02/15,23879,Women,Stilettos,Tommy Hilfiger,White,41,Yes,Yes,No,4
+d48,17/02/15,13673,Men,Boots,Coach,Pink,38,Yes,Yes,No,5
+d49,18/02/15,14447,Men,Flip Flops,Kate Spade,Red,38,Yes,Yes,No,5
+d50,19/02/15,13910,Men,Boots,Tommy Hilfiger,White,38,Yes,No,No,5
+d51,20/02/15,13274,Men,Sneakers,Aldo,Black,40,Yes,Yes,No,5
+d52,21/02/15,13168,Men,Flip Flops,Aldo,Black,40,Yes,No,Yes,1
+d53,22/02/15,16066,Men,Sneakers,Aldo,Black,38,Yes,Yes,No,5
+d54,23/02/15,16496,Women,Stilettos,Kate Spade,Red,38,Yes,No,No,5
+d55,24/02/15,16868,Men,Flip Flops,Aldo,Black,39,Yes,Yes,No,5
+d56,25/02/15,14568,Men,Boots,Adidas,Blue,38,Yes,No,No,5
+d57,26/02/15,16362,Men,Boots,Coach,Pink,38,Yes,No,No,4
+d58,27/02/15,15531,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d59,28/02/15,15768,Men,Sneakers,Coach,Pink,41,Yes,Yes,No,5
+d60,01/03/15,15411,Men,Sneakers,Kate Spade,Red,41,Yes,No,No,5
+d61,02/03/15,14950,Women,Stilettos,Adidas,Blue,39,Yes,Yes,No,5
+d62,03/03/15,16142,Men,Boots,Aldo,Black,40,Yes,No,Yes,1
+d63,04/03/15,15598,Men,Boots,Tommy Hilfiger,White,37,Yes,No,No,5
+d64,05/03/15,15648,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d65,06/03/15,14550,Men,Boots,Tommy Hilfiger,White,38,Yes,No,No,5
+d66,07/03/15,16293,Men,Sneakers,Coach,Pink,37,Yes,No,Yes,1
+d67,08/03/15,16047,Men,Flip Flops,Coach,Pink,41,Yes,Yes,Yes,1
+d68,09/03/15,14282,Men,Sneakers,Kate Spade,Red,37,Yes,Yes,No,5
+d69,10/03/15,14660,Men,Flip Flops,Coach,Pink,39,Yes,Yes,Yes,1
+d70,11/03/15,16350,Men,Sneakers,Aldo,Black,40,Yes,No,No,5
+d71,12/03/15,15889,Men,Boots,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d72,13/03/15,15321,Men,Boots,Coach,Pink,38,Yes,No,Yes,1
+d73,14/03/15,14388,Women,Stilettos,Aldo,Black,37,Yes,No,No,5
+d74,15/03/15,14885,Men,Flip Flops,Coach,Pink,39,Yes,Yes,No,5
+d75,16/03/15,15348,Men,Flip Flops,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d76,17/03/15,14551,Men,Boots,Kate Spade,Red,40,Yes,Yes,Yes,1
+d77,18/03/15,13969,Men,Flip Flops,Kate Spade,Red,39,Yes,Yes,Yes,1
+d78,19/03/15,13522,Men,Flip Flops,Aldo,Black,37,Yes,No,No,5
+d79,20/03/15,16243,Men,Sneakers,Kate Spade,Red,37,Yes,Yes,Yes,1
+d80,21/03/15,15251,Women,Wedges,Coach,Pink,41,Yes,Yes,No,5
+d81,22/03/15,15307,Women,Stilettos,Tommy Hilfiger,White,40,Yes,No,No,5
+d82,23/03/15,14646,Men,Flip Flops,Adidas,Blue,39,Yes,Yes,Yes,1
+d83,24/03/15,15502,Women,Stilettos,Coach,Pink,40,Yes,No,No,5
+d84,25/03/15,15404,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d85,26/03/15,15142,Men,Flip Flops,Kate Spade,Red,41,Yes,Yes,No,5
+d86,27/03/15,13800,Men,Flip Flops,Coach,Pink,38,Yes,No,Yes,1
+d87,28/03/15,13945,Women,Stilettos,Coach,Pink,37,Yes,Yes,Yes,1
+d88,29/03/15,16309,Men,Flip Flops,Kate Spade,Red,37,Yes,Yes,No,5
+d89,30/03/15,14935,Men,Sneakers,Aldo,Black,41,Yes,No,Yes,1
+d90,31/03/15,15025,Men,Sneakers,Aldo,Black,37,Yes,No,No,5
+d91,01/04/15,14452,Men,Flip Flops,Aldo,Black,39,Yes,Yes,No,5
+d92,02/04/15,16972,Men,Boots,Kate Spade,Red,39,Yes,Yes,Yes,1
+d93,03/04/15,15949,Men,Boots,Kate Spade,Red,38,Yes,No,No,5
+d94,04/04/15,15394,Men,Sneakers,Adidas,Blue,39,Yes,No,No,5
+d95,05/04/15,20333,Men,Flip Flops,Kate Spade,Red,38,Yes,No,No,5
+d96,06/04/15,15840,Men,Sneakers,Coach,Pink,39,Yes,Yes,Yes,1
+d97,07/04/15,17996,Women,Stilettos,Aldo,Black,40,Yes,Yes,Yes,1
+d98,08/04/15,18811,Men,Boots,Adidas,Blue,37,Yes,No,No,5
+d99,09/04/15,22701,Men,Flip Flops,Coach,Pink,38,Yes,No,Yes,1
+d100,10/04/15,14974,Men,Boots,Aldo,Black,39,Yes,Yes,No,5
+d101,11/04/15,15503,Women,Stilettos,Aldo,Black,38,Yes,Yes,Yes,3
+d102,12/04/15,14596,Men,Boots,Kate Spade,Red,38,Yes,Yes,No,5
+d103,13/04/15,13943,Men,Sneakers,Kate Spade,Red,39,Yes,Yes,No,4
+d104,14/04/15,13193,Men,Boots,Adidas,Blue,40,Yes,No,No,5
+d105,15/04/15,16363,Men,Boots,Kate Spade,Red,37,Yes,Yes,Yes,1
+d106,16/04/15,18024,Men,Sneakers,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d107,17/04/15,18198,Men,Flip Flops,Coach,Pink,38,Yes,No,Yes,2
+d108,18/04/15,15393,Men,Boots,Kate Spade,Red,39,Yes,No,Yes,1
+d109,19/04/15,16884,Men,Boots,Kate Spade,Red,41,Yes,No,No,5
+d110,20/04/15,16754,Men,Sneakers,Adidas,Blue,37,Yes,No,Yes,1
+d111,21/04/15,16774,Women,Wedges,Kate Spade,Red,38,Yes,Yes,No,3
+d112,22/04/15,15110,Men,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d113,23/04/15,16496,Men,Boots,Tommy Hilfiger,White,37,Yes,No,No,4
+d114,24/04/15,18996,Men,Sneakers,Tommy Hilfiger,White,41,Yes,No,No,5
+d115,25/04/15,16210,Women,Stilettos,Aldo,Black,39,Yes,Yes,Yes,1
+d116,26/04/15,15215,Men,Sneakers,Coach,Pink,41,Yes,Yes,Yes,1
+d117,27/04/15,14689,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,Yes,2
+d118,28/04/15,16845,Men,Flip Flops,Aldo,Black,37,Yes,No,Yes,1
+d119,29/04/15,16110,Men,Flip Flops,Adidas,Blue,37,Yes,No,No,5
+d120,30/04/15,15959,Women,Stilettos,Aldo,Black,37,Yes,No,Yes,1
+d121,01/05/15,15554,Men,Sneakers,Tommy Hilfiger,White,41,Yes,No,No,4
+d122,02/05/15,16244,Men,Flip Flops,Coach,Pink,37,Yes,No,Yes,2
+d123,03/05/15,16972,Men,Sneakers,Adidas,Blue,41,Yes,Yes,No,5
+d124,04/05/15,16306,Women,Stilettos,Kate Spade,Red,39,Yes,Yes,No,5
+d125,05/05/15,15278,Men,Boots,Adidas,Blue,38,Yes,Yes,Yes,1
+d126,06/05/15,15404,Men,Sneakers,Coach,Pink,37,Yes,Yes,No,5
+d127,07/05/15,17698,Men,Sneakers,Tommy Hilfiger,White,37,Yes,No,Yes,2
+d128,08/05/15,15270,Men,Sneakers,Coach,Pink,38,Yes,Yes,Yes,1
+d129,09/05/15,14979,Women,Stilettos,Tommy Hilfiger,White,39,Yes,Yes,Yes,2
+d130,10/05/15,14391,Men,Sneakers,Adidas,Blue,38,Yes,No,No,5
+d131,11/05/15,16311,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,No,4
+d132,12/05/15,15924,Men,Sneakers,Adidas,Blue,39,Yes,No,Yes,2
+d133,13/05/15,15978,Men,Flip Flops,Coach,Pink,38,Yes,No,No,5
+d134,14/05/15,14941,Men,Boots,Kate Spade,Red,40,Yes,Yes,No,5
+d135,15/05/15,15820,Men,Flip Flops,Tommy Hilfiger,White,37,Yes,No,Yes,1
+d136,16/05/15,16617,Men,Flip Flops,Kate Spade,Red,38,Yes,Yes,No,5
+d137,17/05/15,15174,Men,Flip Flops,Aldo,Black,38,Yes,Yes,Yes,2
+d138,18/05/15,15061,Men,Flip Flops,Tommy Hilfiger,White,40,Yes,Yes,Yes,1
+d139,19/05/15,14370,Men,Sneakers,Aldo,Black,40,Yes,No,Yes,2
+d140,20/05/15,16707,Men,Sneakers,Coach,Pink,40,Yes,Yes,No,5
+d141,21/05/15,15730,Men,Boots,Adidas,Blue,38,Yes,No,No,5
+d142,22/05/15,15080,Men,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d143,23/05/15,14936,Women,Stilettos,Adidas,Blue,39,Yes,No,No,5
+d144,24/05/15,21369,Men,Sneakers,Coach,Pink,37,Yes,Yes,No,4
+d145,25/05/15,21378,Men,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,Yes,1
+d146,26/05/15,21244,Men,Flip Flops,Coach,Pink,40,Yes,Yes,No,4
+d147,27/05/15,18650,Men,Boots,Coach,Pink,38,Yes,No,Yes,1
+d148,28/05/15,19910,Men,Boots,Kate Spade,Red,39,Yes,Yes,No,5
+d149,29/05/15,19904,Men,Boots,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d150,30/05/15,19460,Men,Sneakers,Kate Spade,Red,37,Yes,Yes,No,5
+d151,31/05/15,17501,Men,Sneakers,Aldo,Black,39,Yes,No,No,5
+d152,01/06/15,20661,Men,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d153,02/06/15,19546,Men,Flip Flops,Coach,Pink,40,Yes,Yes,No,5
+d154,03/06/15,18749,Men,Sneakers,Kate Spade,Red,41,Yes,No,No,4
+d155,04/06/15,18219,Men,Boots,Tommy Hilfiger,White,40,Yes,No,Yes,1
+d156,05/06/15,18024,Men,Sneakers,Coach,Pink,38,Yes,No,No,4
+d157,06/06/15,20425,Women,Stilettos,Tommy Hilfiger,White,40,Yes,No,Yes,1
+d158,07/06/15,18807,Men,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d159,08/06/15,18969,Men,Flip Flops,Adidas,Blue,40,Yes,No,Yes,1
+d160,09/06/15,19571,Men,Sneakers,Adidas,Blue,39,Yes,Yes,No,5
+d161,10/06/15,21025,Men,Sneakers,Adidas,Blue,37,Yes,No,No,5
+d162,11/06/15,20255,Women,Stilettos,Coach,Pink,40,Yes,No,No,5
+d163,12/06/15,20016,Men,Flip Flops,Coach,Pink,37,Yes,No,No,5
+d164,13/06/15,19399,Men,Boots,Tommy Hilfiger,White,40,Yes,No,No,4
+d165,14/06/15,20039,Women,Stilettos,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d166,15/06/15,18809,Men,Boots,Tommy Hilfiger,White,41,Yes,No,No,4
+d167,16/06/15,18458,Men,Boots,Kate Spade,Red,38,Yes,No,Yes,1
+d168,17/06/15,17817,Men,Flip Flops,Coach,Pink,40,Yes,No,No,5
+d169,18/06/15,18042,Men,Flip Flops,Kate Spade,Red,37,Yes,No,Yes,1
+d170,19/06/15,19919,Women,Wedges,Tommy Hilfiger,White,38,Yes,No,No,5
+d171,20/06/15,18956,Women,Wedges,Tommy Hilfiger,White,40,Yes,No,No,5
+d172,21/06/15,19643,Men,Flip Flops,Coach,Pink,37,Yes,No,No,5
+d173,22/06/15,18638,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,5
+d174,23/06/15,19046,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,No,4
+d175,24/06/15,18391,Men,Sneakers,Tommy Hilfiger,White,37,Yes,No,Yes,1
+d176,25/06/15,17939,Men,Boots,Aldo,Black,38,Yes,Yes,No,4
+d177,26/06/15,17245,Men,Sneakers,Aldo,Black,37,Yes,No,Yes,1
+d178,27/06/15,18274,Men,Flip Flops,Coach,Pink,40,Yes,No,No,5
+d179,28/06/15,18499,Men,Boots,Aldo,Black,41,Yes,Yes,Yes,1
+d180,29/06/15,17943,Men,Sneakers,Coach,Pink,41,Yes,Yes,No,5
+d181,30/06/15,17379,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,No,No,5
+d182,01/07/15,18027,Women,Stilettos,Aldo,Black,41,Yes,No,Yes,1
+d183,02/07/15,19390,Women,Stilettos,Coach,Pink,37,Yes,No,No,3
+d184,03/07/15,19168,Men,Boots,Aldo,Black,40,Yes,No,Yes,1
+d185,04/07/15,19567,Men,Boots,Coach,Pink,41,Yes,No,Yes,1
+d186,05/07/15,26587,Women,Wedges,Tommy Hilfiger,White,38,Yes,No,No,5
+d187,06/07/15,20157,Women,Stilettos,Aldo,Black,38,Yes,Yes,No,4
+d188,07/07/15,23787,Women,Wedges,Aldo,Black,39,Yes,No,No,5
+d189,08/07/15,26091,Men,Sneakers,Aldo,Black,38,Yes,Yes,No,5
+d190,09/07/15,34360,Men,Boots,Adidas,Blue,37,Yes,No,No,5
+d191,10/07/15,17504,Men,Flip Flops,Coach,Pink,41,Yes,No,No,5
+d192,11/07/15,17580,Men,Boots,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d193,12/07/15,17441,Men,Flip Flops,Kate Spade,Red,37,Yes,No,No,3
+d194,13/07/15,17513,Men,Boots,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d195,14/07/15,16953,Men,Sneakers,Tommy Hilfiger,White,40,Yes,Yes,Yes,1
+d196,15/07/15,19293,Men,Boots,Tommy Hilfiger,White,40,Yes,No,No,5
+d197,16/07/15,21680,Women,Wedges,Kate Spade,Red,40,Yes,No,No,4
+d198,17/07/15,20808,Men,Sneakers,Coach,Pink,40,Yes,No,No,5
+d199,18/07/15,18335,Men,Sneakers,Kate Spade,Red,38,Yes,No,No,5
+d200,19/07/15,19816,Women,Stilettos,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d201,20/07/15,18791,Men,Flip Flops,Aldo,Black,40,Yes,No,No,4
+d202,21/07/15,19025,Men,Sneakers,Aldo,Black,41,Yes,No,No,5
+d203,22/07/15,17661,Women,Stilettos,Aldo,Black,39,Yes,No,No,5
+d204,23/07/15,18001,Men,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,3
+d205,24/07/15,18475,Men,Boots,Tommy Hilfiger,White,41,Yes,Yes,Yes,2
+d206,25/07/15,18564,Women,Stilettos,Adidas,Blue,41,Yes,No,No,5
+d207,26/07/15,18863,Men,Boots,Kate Spade,Red,40,Yes,Yes,No,4
+d208,27/07/15,17455,Men,Boots,Tommy Hilfiger,White,40,Yes,Yes,No,4
+d209,28/07/15,18377,Men,Boots,Coach,Pink,41,Yes,No,No,5
+d210,29/07/15,18385,Men,Sneakers,Coach,Pink,37,Yes,No,No,4
+d211,30/07/15,16882,Women,Stilettos,Coach,Pink,40,Yes,No,No,4
+d212,31/07/15,17977,Men,Sneakers,Adidas,Blue,41,Yes,Yes,No,5
+d213,01/08/15,19337,Men,Flip Flops,Adidas,Blue,37,Yes,Yes,No,5
+d214,02/08/15,19291,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,No,No,3
+d215,03/08/15,19537,Men,Flip Flops,Kate Spade,Red,39,Yes,No,Yes,2
+d216,04/08/15,17909,Men,Flip Flops,Coach,Pink,41,Yes,No,No,5
+d217,05/08/15,18662,Women,Stilettos,Aldo,Black,38,Yes,No,No,4
+d218,06/08/15,18531,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,No,4
+d219,07/08/15,17851,Men,Sneakers,Kate Spade,Red,38,Yes,Yes,No,5
+d220,08/08/15,17438,Men,Sneakers,Coach,Pink,40,Yes,No,No,4
+d221,09/08/15,16806,Women,Wedges,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d222,10/08/15,18767,Men,Boots,Kate Spade,Red,41,Yes,Yes,No,5
+d223,11/08/15,18127,Men,Sneakers,Aldo,Black,41,Yes,No,No,4
+d224,12/08/15,18440,Men,Boots,Adidas,Blue,40,Yes,Yes,No,4
+d225,13/08/15,18211,Men,Flip Flops,Coach,Pink,41,Yes,No,No,5
+d226,14/08/15,18091,Men,Boots,Kate Spade,Red,38,Yes,No,No,5
+d227,15/08/15,17480,Men,Boots,Kate Spade,Red,37,Yes,Yes,No,4
+d228,16/08/15,16914,Men,Sneakers,Kate Spade,Red,37,Yes,No,No,4
+d229,17/08/15,16693,Men,Flip Flops,Aldo,Black,38,Yes,No,No,5
+d230,18/08/15,16503,Men,Sneakers,Kate Spade,Red,41,Yes,No,Yes,1
+d231,19/08/15,18375,Women,Stilettos,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d232,20/08/15,17438,Women,Wedges,Coach,Pink,40,Yes,No,No,5
+d233,21/08/15,18346,Women,Wedges,Tommy Hilfiger,White,37,Yes,Yes,No,4
+d234,22/08/15,17692,Men,Sneakers,Aldo,Black,41,Yes,Yes,No,4
+d235,23/08/15,19597,Men,Boots,Tommy Hilfiger,White,41,Yes,No,No,5
+d236,24/08/15,19207,Men,Flip Flops,Tommy Hilfiger,White,40,Yes,No,No,5
+d237,25/08/15,19027,Men,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,4
+d238,26/08/15,26142,Men,Flip Flops,Adidas,Blue,39,Yes,Yes,No,4
+d239,27/08/15,19549,Women,Stilettos,Coach,Pink,37,Yes,No,No,5
+d240,28/08/15,22905,Men,Flip Flops,Tommy Hilfiger,White,40,Yes,Yes,Yes,1
+d241,29/08/15,24327,Men,Flip Flops,Kate Spade,Red,37,Yes,Yes,No,5
+d242,30/08/15,32243,Men,Sneakers,Aldo,Black,39,Yes,No,No,4
+d243,31/08/15,18742,Men,Flip Flops,Kate Spade,Red,39,Yes,Yes,No,4
+d244,01/09/15,17995,Men,Sneakers,Adidas,Blue,37,Yes,No,No,5
+d245,02/09/15,17447,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d246,03/09/15,17117,Men,Boots,Aldo,Black,37,Yes,No,No,3
+d247,04/09/15,16609,Men,Sneakers,Kate Spade,Red,37,Yes,No,No,4
+d248,05/09/15,19353,Men,Boots,Coach,Pink,40,Yes,No,Yes,2
+d249,06/09/15,21033,Men,Boots,Adidas,Blue,37,Yes,No,Yes,2
+d250,07/09/15,21966,Men,Boots,Coach,Pink,40,Yes,No,Yes,1
+d251,08/09/15,18618,Men,Sneakers,Kate Spade,Red,41,Yes,No,No,5
+d252,09/09/15,19525,Men,Sneakers,Aldo,Black,38,Yes,Yes,No,4
+d253,10/09/15,19376,Men,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,4
+d254,11/09/15,19760,Men,Flip Flops,Coach,Pink,39,Yes,No,No,5
+d255,12/09/15,17904,Men,Sneakers,Coach,Pink,38,Yes,No,No,5
+d256,13/09/15,18574,Women,Stilettos,Coach,Pink,39,Yes,No,No,3
+d257,14/09/15,21290,Men,Flip Flops,Aldo,Black,37,Yes,No,No,4
+d258,15/09/15,19358,Men,Boots,Coach,Pink,40,Yes,No,Yes,2
+d259,16/09/15,18473,Men,Flip Flops,Aldo,Black,41,Yes,No,Yes,2
+d260,17/09/15,17641,Men,Flip Flops,Adidas,Blue,39,Yes,Yes,Yes,1
+d261,18/09/15,19239,Men,Flip Flops,Adidas,Blue,37,Yes,No,No,4
+d262,19/09/15,19175,Men,Sneakers,Kate Spade,Red,38,Yes,No,Yes,1
+d263,20/09/15,20009,Men,Flip Flops,Aldo,Black,39,Yes,No,No,4
+d264,21/09/15,19127,Men,Boots,Aldo,Black,37,Yes,Yes,Yes,1
+d265,22/09/15,19100,Men,Boots,Kate Spade,Red,37,Yes,No,Yes,1
+d266,23/09/15,20102,Men,Sneakers,Aldo,Black,37,Yes,No,No,5
+d267,24/09/15,19629,Women,Wedges,Kate Spade,Red,39,Yes,Yes,No,5
+d268,25/09/15,18877,Men,Flip Flops,Kate Spade,Red,39,Yes,No,No,4
+d269,26/09/15,18810,Men,Boots,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d270,27/09/15,20415,Men,Sneakers,Coach,Pink,41,Yes,No,No,5
+d271,28/09/15,18300,Men,Flip Flops,Kate Spade,Red,38,Yes,No,No,4
+d272,29/09/15,18196,Women,Stilettos,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d273,30/09/15,17579,Men,Flip Flops,Coach,Pink,39,Yes,No,No,4
+d274,01/10/15,19461,Men,Flip Flops,Adidas,Blue,39,Yes,Yes,Yes,1
+d275,02/10/15,18667,Men,Flip Flops,Kate Spade,Red,39,Yes,Yes,Yes,1
+d276,03/10/15,19280,Men,Sneakers,Aldo,Black,38,Yes,No,No,5
+d277,04/10/15,18767,Men,Sneakers,Coach,Pink,37,Yes,Yes,No,5
+d278,05/10/15,19470,Men,Flip Flops,Aldo,Black,38,Yes,Yes,No,4
+d279,06/10/15,18987,Women,Stilettos,Kate Spade,Red,39,Yes,No,No,5
+d280,07/10/15,18148,Men,Sneakers,Aldo,Black,38,Yes,Yes,No,5
+d281,08/10/15,18294,Men,Flip Flops,Aldo,Black,41,Yes,No,No,4
+d282,09/10/15,17464,Men,Sneakers,Coach,Pink,39,Yes,Yes,No,4
+d283,10/10/15,19983,Men,Boots,Kate Spade,Red,39,Yes,No,No,5
+d284,11/10/15,19007,Women,Wedges,Coach,Pink,41,Yes,No,Yes,1
+d285,12/10/15,18479,Men,Sneakers,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d286,13/10/15,18344,Men,Boots,Kate Spade,Red,39,Yes,Yes,No,5
+d287,14/10/15,4616,Men,Flip Flops,Kate Spade,Red,40,Yes,Yes,Yes,2
+d288,15/10/15,4207,Men,Sneakers,Coach,Pink,40,Yes,No,No,5
+d289,16/10/15,4216,Men,Sneakers,Aldo,Black,37,Yes,No,No,3
+d290,17/10/15,4072,Men,Sneakers,Aldo,Black,39,Yes,No,No,5
+d291,18/10/15,4152,Men,Sneakers,Adidas,Blue,41,Yes,No,No,4
+d292,19/10/15,3842,Men,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,No,4
+d293,20/10/15,3753,Women,Stilettos,Kate Spade,Red,41,Yes,Yes,No,5
+d294,21/10/15,3599,Women,Wedges,Coach,Pink,37,Yes,No,Yes,1
+d295,22/10/15,4232,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d296,23/10/15,4158,Men,Boots,Kate Spade,Red,39,Yes,Yes,No,5
+d297,24/10/15,3549,Women,Stilettos,Tommy Hilfiger,White,41,Yes,Yes,Yes,2
+d298,25/10/15,3399,Men,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d299,26/10/15,3612,Men,Sneakers,Adidas,Blue,40,Yes,Yes,No,3
+d300,27/10/15,3993,Men,Flip Flops,Coach,Pink,41,Yes,Yes,No,5
+d301,28/10/15,3843,Men,Flip Flops,Kate Spade,Red,40,Yes,No,Yes,1
+d302,29/10/15,3437,Men,Flip Flops,Aldo,Black,38,Yes,No,Yes,1
+d303,30/10/15,3500,Men,Flip Flops,Adidas,Blue,39,Yes,No,No,4
+d304,31/10/15,3969,Men,Sneakers,Coach,Pink,40,Yes,Yes,No,5
+d305,01/11/15,3550,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,5
+d306,02/11/15,3640,Men,Flip Flops,Kate Spade,Red,38,Yes,No,Yes,2
+d307,03/11/15,3573,Men,Flip Flops,Coach,Pink,37,Yes,No,No,3
+d308,04/11/15,3811,Men,Flip Flops,Adidas,Blue,39,Yes,No,No,5
+d309,05/11/15,3492,Men,Boots,Coach,Pink,37,Yes,Yes,No,5
+d310,06/11/15,3527,Men,Sneakers,Adidas,Blue,38,Yes,Yes,Yes,1
+d311,07/11/15,3528,Women,Stilettos,Kate Spade,Red,38,Yes,Yes,Yes,1
+d312,08/11/15,3479,Men,Boots,Kate Spade,Red,41,Yes,No,Yes,1
+d313,09/11/15,4026,Men,Flip Flops,Coach,Pink,38,Yes,No,No,4
+d314,10/11/15,3395,Men,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d315,11/11/15,3517,Men,Flip Flops,Aldo,Black,39,No,Yes,No,5
+d316,12/11/15,3621,Men,Flip Flops,Tommy Hilfiger,White,37,Yes,Yes,Yes,2
+d317,13/11/15,3664,Women,Stilettos,Aldo,Black,39,Yes,Yes,No,3
+d318,14/11/15,3522,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,No,No,5
+d319,15/11/15,3630,Men,Sneakers,Tommy Hilfiger,White,37,Yes,No,No,5
+d320,16/11/15,3556,Men,Sneakers,Kate Spade,Red,37,Yes,No,Yes,1
+d321,17/11/15,3587,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d322,18/11/15,3951,Men,Flip Flops,Tommy Hilfiger,White,40,Yes,No,Yes,1
+d323,19/11/15,3455,Men,Flip Flops,Kate Spade,Red,39,Yes,No,No,4
+d324,20/11/15,3488,Men,Flip Flops,Kate Spade,Red,39,Yes,No,No,5
+d325,21/11/15,3485,Women,Stilettos,Tommy Hilfiger,White,40,Yes,No,No,5
+d326,22/11/15,4231,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,No,Yes,2
+d327,23/11/15,3866,Men,Flip Flops,Coach,Pink,37,Yes,No,No,3
+d328,24/11/15,3725,Men,Sneakers,Coach,Pink,37,Yes,No,No,5
+d329,25/11/15,5655,Women,Stilettos,Kate Spade,Red,40,Yes,Yes,No,5
+d330,26/11/15,4764,Men,Flip Flops,Kate Spade,Red,40,Yes,Yes,Yes,1
+d331,27/11/15,4676,Women,Stilettos,Coach,Pink,39,Yes,Yes,Yes,1
+d332,28/11/15,4981,Men,Boots,Coach,Pink,39,Yes,Yes,Yes,1
+d333,29/11/15,6059,Men,Flip Flops,Kate Spade,Red,39,Yes,No,No,4
+d334,30/11/15,3826,Men,Boots,Aldo,Black,40,Yes,No,No,5
+d335,01/12/15,3782,Women,Wedges,Tommy Hilfiger,White,40,Yes,No,No,5
+d336,02/12/15,3810,Men,Sneakers,Kate Spade,Red,39,Yes,No,Yes,2
+d337,03/12/15,3508,Men,Flip Flops,Adidas,Blue,41,Yes,No,No,3
+d338,04/12/15,3648,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,No,No,5
+d339,05/12/15,4385,Men,Sneakers,Adidas,Blue,38,Yes,No,No,5
+d340,06/12/15,4305,Men,Boots,Aldo,Black,39,Yes,No,Yes,1
+d341,07/12/15,4327,Women,Stilettos,Tommy Hilfiger,White,38,Yes,Yes,Yes,2
+d342,08/12/15,3972,Men,Flip Flops,Coach,Pink,38,Yes,Yes,Yes,2
+d343,09/12/15,4370,Men,Boots,Coach,Pink,38,Yes,Yes,Yes,1
+d344,10/12/15,4047,Women,Stilettos,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d345,11/12/15,3921,Men,Boots,Tommy Hilfiger,White,37,Yes,No,Yes,1
+d346,12/12/15,3806,Men,Sneakers,Kate Spade,Red,41,Yes,No,Yes,2
+d347,13/12/15,3745,Men,Sneakers,Coach,Pink,41,Yes,Yes,Yes,1
+d348,14/12/15,3840,Men,Flip Flops,Tommy Hilfiger,White,40,Yes,Yes,Yes,1
+d349,15/12/15,3662,Women,Stilettos,Kate Spade,Red,40,Yes,Yes,Yes,1
+d350,16/12/15,3918,Women,Stilettos,Adidas,Blue,37,Yes,Yes,Yes,1
+d351,17/12/15,3674,Men,Flip Flops,Coach,Pink,41,Yes,No,Yes,2
+d352,18/12/15,4130,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,No,Yes,2
+d353,19/12/15,3863,Men,Sneakers,Kate Spade,Red,37,Yes,No,Yes,1
+d354,20/12/15,3646,Men,Boots,Kate Spade,Red,38,Yes,Yes,Yes,1
+d355,21/12/15,3693,Men,Flip Flops,Kate Spade,Red,40,Yes,No,Yes,1
+d356,22/12/15,3945,Men,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,Yes,2
+d357,23/12/15,3916,Men,Flip Flops,Adidas,Blue,37,Yes,No,Yes,1
+d358,24/12/15,4034,Men,Boots,Kate Spade,Red,41,Yes,No,Yes,1
+d359,25/12/15,3855,Men,Sneakers,Aldo,Black,39,Yes,No,Yes,1
+d360,26/12/15,3689,Women,Wedges,Aldo,Black,41,Yes,No,Yes,1
+d361,27/12/15,3951,Women,Stilettos,Coach,Pink,41,Yes,Yes,Yes,1
+d362,28/12/15,3734,Men,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d363,29/12/15,3606,Men,Sneakers,Adidas,Blue,37,Yes,No,No,5
+d364,30/12/15,3453,Men,Sneakers,Kate Spade,Red,38,Yes,Yes,No,5
+d365,31/12/15,4099,Men,Boots,Aldo,Black,39,Yes,Yes,Yes,1
+d366,01/01/16,3803,Men,Boots,Adidas,Blue,39,Yes,No,Yes,3
+d367,02/01/16,3797,Men,Boots,Aldo,Black,39,Yes,Yes,No,4
+d368,03/01/16,3663,Women,Stilettos,Tommy Hilfiger,White,40,Yes,No,No,4
+d369,04/01/16,3759,Men,Boots,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d370,05/01/16,3773,Men,Sneakers,Tommy Hilfiger,White,37,Yes,Yes,Yes,2
+d371,06/01/16,3756,Men,Flip Flops,Adidas,Blue,39,Yes,Yes,Yes,1
+d372,07/01/16,3652,Men,Flip Flops,Aldo,Black,40,Yes,No,No,5
+d373,08/01/16,3684,Men,Sneakers,Kate Spade,Red,39,Yes,No,No,5
+d374,09/01/16,4033,Men,Boots,Tommy Hilfiger,White,41,Yes,No,No,5
+d375,10/01/16,3682,Men,Flip Flops,Adidas,Blue,39,Yes,Yes,Yes,1
+d376,11/01/16,3949,Men,Sneakers,Kate Spade,Red,38,Yes,No,Yes,3
+d377,12/01/16,3895,Men,Boots,Aldo,Black,41,Yes,Yes,No,4
+d378,13/01/16,4594,Men,Flip Flops,Adidas,Blue,40,Yes,Yes,No,4
+d379,14/01/16,4077,Men,Sneakers,Aldo,Black,41,Yes,No,No,5
+d380,15/01/16,3988,Women,Stilettos,Coach,Pink,37,Yes,Yes,Yes,2
+d381,16/01/16,5569,Men,Boots,Kate Spade,Red,37,Yes,No,Yes,1
+d382,17/01/16,4725,Men,Boots,Adidas,Blue,39,Yes,Yes,Yes,2
+d383,18/01/16,4687,Men,Sneakers,Kate Spade,Red,40,Yes,Yes,No,5
+d384,19/01/16,5107,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,No,No,5
+d385,20/01/16,5512,Women,Stilettos,Adidas,Blue,39,Yes,Yes,No,5
+d386,21/01/16,4105,Men,Flip Flops,Kate Spade,Red,39,Yes,No,Yes,1
+d387,22/01/16,3981,Men,Boots,Tommy Hilfiger,White,37,Yes,Yes,Yes,1
+d388,23/01/16,3674,Women,Stilettos,Coach,Pink,40,Yes,No,No,4
+d389,24/01/16,3658,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,No,No,5
+d390,25/01/16,3495,Men,Sneakers,Adidas,Blue,37,Yes,No,Yes,1
+d391,26/01/16,4249,Men,Sneakers,Tommy Hilfiger,White,40,Yes,Yes,Yes,1
+d392,27/01/16,4732,Men,Sneakers,Tommy Hilfiger,White,40,Yes,Yes,Yes,2
+d393,28/01/16,4755,Women,Stilettos,Coach,Pink,39,Yes,Yes,No,5
+d394,29/01/16,4189,Men,Flip Flops,Kate Spade,Red,41,Yes,Yes,No,5
+d395,30/01/16,4697,Women,Wedges,Coach,Pink,40,Yes,No,No,5
+d396,31/01/16,4451,Men,Sneakers,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d397,01/02/16,4117,Men,Flip Flops,Coach,Pink,39,Yes,No,Yes,1
+d398,02/02/16,4139,Men,Flip Flops,Aldo,Black,40,Yes,No,No,4
+d399,03/02/16,4074,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d400,04/02/16,5032,Men,Sneakers,Tommy Hilfiger,White,40,Yes,No,Yes,1
+d401,05/02/16,4207,Men,Flip Flops,Aldo,Black,40,Yes,No,Yes,1
+d402,06/02/16,4348,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,Yes,2
+d403,07/02/16,3946,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,No,No,5
+d404,08/02/16,4399,Women,Stilettos,Aldo,Black,41,Yes,No,No,5
+d405,09/02/16,4319,Men,Sneakers,Adidas,Blue,37,Yes,No,Yes,3
+d406,10/02/16,4181,Men,Sneakers,Adidas,Blue,38,Yes,No,No,5
+d407,11/02/16,4137,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,No,4
+d408,12/02/16,4322,Women,Stilettos,Aldo,Black,40,Yes,Yes,No,4
+d409,13/02/16,4463,Men,Boots,Coach,Pink,38,Yes,Yes,No,5
+d410,14/02/16,4420,Men,Boots,Aldo,Black,41,Yes,Yes,No,5
+d411,15/02/16,4194,Men,Boots,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d412,16/02/16,4229,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,Yes,2
+d413,17/02/16,4112,Men,Sneakers,Kate Spade,Red,39,Yes,Yes,No,5
+d414,18/02/16,4169,Men,Flip Flops,Kate Spade,Red,41,Yes,Yes,No,5
+d415,19/02/16,4324,Men,Flip Flops,Coach,Pink,40,Yes,Yes,Yes,3
+d416,20/02/16,3894,Men,Flip Flops,Aldo,Black,38,Yes,Yes,No,5
+d417,21/02/16,4199,Men,Boots,Adidas,Blue,37,Yes,Yes,No,4
+d418,22/02/16,3918,Women,Stilettos,Aldo,Black,41,Yes,Yes,No,4
+d419,23/02/16,3949,Men,Flip Flops,Aldo,Black,37,Yes,No,No,5
+d420,24/02/16,4124,Men,Sneakers,Coach,Pink,40,Yes,No,No,5
+d421,25/02/16,4088,Men,Sneakers,Aldo,Black,37,Yes,Yes,No,5
+d422,26/02/16,4082,Men,Sneakers,Adidas,Blue,41,Yes,No,No,5
+d423,27/02/16,4075,Women,Wedges,Coach,Pink,37,Yes,Yes,Yes,3
+d424,28/02/16,4143,Men,Flip Flops,Kate Spade,Red,38,Yes,No,No,5
+d425,29/02/16,3898,Men,Flip Flops,Aldo,Black,38,Yes,No,No,5
+d426,01/03/16,4435,Men,Sneakers,Adidas,Blue,41,Yes,No,Yes,2
+d427,02/03/16,4108,Women,Stilettos,Adidas,Blue,38,Yes,Yes,No,5
+d428,03/03/16,4245,Men,Boots,Kate Spade,Red,40,Yes,Yes,No,4
+d429,04/03/16,4054,Men,Flip Flops,Coach,Pink,40,Yes,No,No,5
+d430,05/03/16,21351,Men,Sneakers,Aldo,Black,41,Yes,Yes,No,5
+d431,06/03/16,21883,Men,Boots,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d432,07/03/16,20498,Men,Boots,Tommy Hilfiger,White,41,Yes,No,No,5
+d433,08/03/16,19257,Men,Boots,Aldo,Black,38,Yes,No,Yes,3
+d434,09/03/16,19710,Women,Stilettos,Adidas,Blue,39,Yes,No,No,5
+d435,10/03/16,18943,Men,Sneakers,Coach,Pink,38,Yes,No,No,5
+d436,11/03/16,18974,Men,Boots,Coach,Pink,41,Yes,Yes,Yes,2
+d437,12/03/16,17625,Men,Flip Flops,Adidas,Blue,41,Yes,Yes,No,5
+d438,13/03/16,19792,Men,Flip Flops,Coach,Pink,37,Yes,Yes,No,4
+d439,14/03/16,18184,Men,Sneakers,Tommy Hilfiger,White,41,Yes,No,No,5
+d440,15/03/16,18515,Women,Stilettos,Kate Spade,Red,41,Yes,Yes,No,5
+d441,16/03/16,18026,Men,Sneakers,Adidas,Blue,41,Yes,Yes,Yes,2
+d442,17/03/16,18172,Men,Boots,Aldo,Black,41,Yes,No,No,5
+d443,18/03/16,20006,Men,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d444,19/03/16,18755,Women,Stilettos,Adidas,Blue,37,Yes,No,Yes,1
+d445,20/03/16,19037,Men,Sneakers,Tommy Hilfiger,White,37,Yes,Yes,No,4
+d446,21/03/16,18575,Men,Boots,Adidas,Blue,37,Yes,Yes,Yes,2
+d447,22/03/16,19032,Men,Sneakers,Adidas,Blue,40,Yes,No,No,5
+d448,23/03/16,18706,Men,Boots,Tommy Hilfiger,White,40,Yes,No,No,4
+d449,24/03/16,19297,Men,Flip Flops,Kate Spade,Red,39,Yes,No,No,5
+d450,25/03/16,18466,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,Yes,1
+d451,26/03/16,18813,Men,Sneakers,Adidas,Blue,38,Yes,Yes,Yes,2
+d452,27/03/16,18122,Men,Sneakers,Adidas,Blue,38,Yes,Yes,No,5
+d453,28/03/16,18984,Men,Sneakers,Adidas,Blue,37,Yes,No,No,5
+d454,29/03/16,18484,Men,Flip Flops,Adidas,Blue,39,Yes,Yes,Yes,1
+d455,30/03/16,17966,Men,Sneakers,Kate Spade,Red,38,Yes,Yes,No,4
+d456,31/03/16,19076,Men,Flip Flops,Adidas,Blue,37,Yes,No,Yes,2
+d457,01/04/16,20070,Men,Flip Flops,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d458,02/04/16,19971,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,No,No,4
+d459,03/04/16,18484,Men,Sneakers,Coach,Pink,39,Yes,No,No,5
+d460,04/04/16,19358,Men,Boots,Coach,Pink,39,Yes,No,Yes,1
+d461,05/04/16,18658,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,5
+d462,06/04/16,18999,Women,Wedges,Kate Spade,Red,39,Yes,No,No,5
+d463,07/04/16,18106,Men,Boots,Coach,Pink,37,Yes,No,No,5
+d464,08/04/16,18428,Men,Boots,Coach,Pink,37,Yes,Yes,No,5
+d465,09/04/16,19514,Women,Wedges,Aldo,Black,40,Yes,Yes,No,4
+d466,10/04/16,18673,Men,Boots,Tommy Hilfiger,White,40,Yes,No,No,5
+d467,11/04/16,19276,Men,Sneakers,Coach,Pink,37,Yes,No,No,5
+d468,12/04/16,19333,Women,Wedges,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d469,13/04/16,20131,Men,Sneakers,Kate Spade,Red,38,Yes,No,No,5
+d470,14/04/16,19997,Men,Flip Flops,Kate Spade,Red,40,Yes,Yes,Yes,1
+d471,15/04/16,20978,Men,Flip Flops,Adidas,Blue,37,Yes,No,No,5
+d472,16/04/16,27894,Men,Sneakers,Kate Spade,Red,37,Yes,Yes,No,5
+d473,17/04/16,21025,Men,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d474,18/04/16,23025,Men,Sneakers,Coach,Pink,40,Yes,No,No,5
+d475,19/04/16,27400,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,No,4
+d476,20/04/16,35267,Men,Flip Flops,Coach,Pink,37,Yes,No,No,5
+d477,21/04/16,17948,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d478,22/04/16,18624,Men,Flip Flops,Kate Spade,Red,41,Yes,Yes,No,5
+d479,23/04/16,18655,Men,Sneakers,Coach,Pink,37,Yes,Yes,No,5
+d480,24/04/16,18863,Men,Sneakers,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d481,25/04/16,18142,Men,Flip Flops,Aldo,Black,38,Yes,No,No,5
+d482,26/04/16,21190,Men,Boots,Kate Spade,Red,40,Yes,No,No,5
+d483,27/04/16,21878,Women,Stilettos,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d484,28/04/16,23164,Men,Sneakers,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d485,29/04/16,20780,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d486,30/04/16,21034,Women,Stilettos,Adidas,Blue,41,Yes,Yes,No,5
+d487,01/05/16,20398,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d488,02/05/16,21164,Men,Flip Flops,Kate Spade,Red,38,Yes,Yes,No,5
+d489,03/05/16,19441,Men,Sneakers,Aldo,Black,39,Yes,No,No,5
+d490,04/05/16,19002,Women,Wedges,Coach,Pink,39,Yes,No,No,5
+d491,05/05/16,20749,Men,Flip Flops,Coach,Pink,39,Yes,No,No,5
+d492,06/05/16,19605,Men,Sneakers,Adidas,Blue,41,Yes,No,No,5
+d493,07/05/16,22206,Men,Boots,Adidas,Blue,37,Yes,Yes,No,5
+d494,08/05/16,18781,Men,Sneakers,Adidas,Blue,41,Yes,No,No,5
+d495,09/05/16,20636,Men,Boots,Adidas,Blue,41,Yes,No,No,5
+d496,10/05/16,20023,Men,Sneakers,Coach,Pink,37,Yes,Yes,No,5
+d497,11/05/16,20155,Men,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d498,12/05/16,19865,Men,Sneakers,Adidas,Blue,40,Yes,No,No,5
+d499,13/05/16,20653,Men,Flip Flops,Coach,Pink,40,Yes,Yes,No,5
+d500,14/05/16,20739,Women,Stilettos,Coach,Pink,38,Yes,Yes,No,5
+d501,15/05/16,21412,Men,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d502,16/05/16,20083,Women,Stilettos,Coach,Pink,41,Yes,No,No,4
+d503,17/05/16,20515,Men,Boots,Adidas,Blue,40,Yes,No,No,4
+d504,18/05/16,20665,Women,Stilettos,Aldo,Black,40,Yes,Yes,No,4
+d505,19/05/16,20490,Men,Sneakers,Adidas,Blue,40,Yes,No,No,5
+d506,20/05/16,20362,Men,Flip Flops,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d507,21/05/16,19896,Men,Sneakers,Aldo,Black,39,Yes,Yes,No,5
+d508,22/05/16,21600,Men,Boots,Tommy Hilfiger,White,37,Yes,No,No,5
+d509,23/05/16,21056,Men,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d510,24/05/16,22328,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d511,25/05/16,19884,Men,Sneakers,Coach,Pink,39,Yes,No,No,5
+d512,26/05/16,20784,Men,Sneakers,Adidas,Blue,40,Yes,Yes,No,4
+d513,27/05/16,20931,Men,Sneakers,Adidas,Blue,39,Yes,No,No,4
+d514,28/05/16,20755,Men,Boots,Kate Spade,Red,41,Yes,Yes,No,4
+d515,29/05/16,20314,Men,Boots,Coach,Pink,39,Yes,Yes,No,5
+d516,30/05/16,19294,Men,Sneakers,Tommy Hilfiger,White,41,Yes,No,No,5
+d517,31/05/16,21667,Women,Wedges,Aldo,Black,37,Yes,Yes,No,5
+d518,01/06/16,20745,Men,Flip Flops,Coach,Pink,39,Yes,Yes,No,5
+d519,02/06/16,22077,Men,Flip Flops,Adidas,Blue,37,Yes,No,No,5
+d520,03/06/16,21516,Men,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,Yes,1
+d521,04/06/16,22812,Men,Sneakers,Kate Spade,Red,41,Yes,No,No,5
+d522,05/06/16,22030,Women,Wedges,Coach,Pink,41,Yes,No,No,4
+d523,06/06/16,22439,Men,Sneakers,Kate Spade,Red,41,Yes,Yes,No,4
+d524,07/06/16,30047,Men,Sneakers,Aldo,Black,41,Yes,No,No,4
+d525,08/06/16,21809,Men,Boots,Coach,Pink,37,Yes,Yes,No,5
+d526,09/06/16,25089,Men,Flip Flops,Adidas,Blue,41,Yes,No,No,5
+d527,10/06/16,27713,Women,Stilettos,Adidas,Blue,41,Yes,No,No,5
+d528,11/06/16,36763,Men,Flip Flops,Aldo,Black,41,Yes,No,No,5
+d529,12/06/16,20071,Men,Sneakers,Coach,Pink,39,Yes,Yes,No,5
+d530,13/06/16,20477,Men,Flip Flops,Coach,Pink,40,Yes,No,Yes,1
+d531,14/06/16,19416,Men,Boots,Coach,Pink,38,Yes,No,No,5
+d532,15/06/16,20050,Men,Flip Flops,Tommy Hilfiger,White,40,Yes,Yes,No,4
+d533,16/06/16,19287,Men,Flip Flops,Adidas,Blue,38,Yes,Yes,No,4
+d534,17/06/16,21733,Men,Flip Flops,Coach,Pink,38,Yes,No,No,4
+d535,18/06/16,23746,Women,Stilettos,Aldo,Black,39,Yes,No,No,5
+d536,19/06/16,24276,Men,Sneakers,Aldo,Black,41,Yes,Yes,No,5
+d537,20/06/16,22266,Women,Stilettos,Adidas,Blue,37,Yes,No,No,5
+d538,21/06/16,22063,Women,Stilettos,Adidas,Blue,37,Yes,No,No,5
+d539,22/06/16,22024,Men,Flip Flops,Kate Spade,Red,38,Yes,Yes,No,5
+d540,23/06/16,22149,Men,Boots,Coach,Pink,38,Yes,Yes,Yes,1
+d541,24/06/16,20915,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,No,No,5
+d542,25/06/16,20893,Men,Flip Flops,Adidas,Blue,40,Yes,Yes,No,5
+d543,26/06/16,24702,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,Yes,3
+d544,27/06/16,21053,Women,Stilettos,Kate Spade,Red,39,Yes,No,No,4
+d545,28/06/16,21443,Men,Flip Flops,Aldo,Black,40,Yes,No,No,5
+d546,29/06/16,20640,Men,Flip Flops,Coach,Pink,40,Yes,Yes,No,4
+d547,30/06/16,21969,Men,Flip Flops,Aldo,Black,39,Yes,No,No,5
+d548,01/07/16,21276,Women,Stilettos,Adidas,Blue,39,Yes,No,No,4
+d549,02/07/16,22072,Women,Stilettos,Tommy Hilfiger,White,39,Yes,Yes,Yes,2
+d550,03/07/16,21541,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d551,04/07/16,21793,Men,Sneakers,Kate Spade,Red,39,Yes,No,No,5
+d552,05/07/16,22452,Men,Boots,Coach,Pink,39,Yes,No,No,5
+d553,06/07/16,22341,Men,Sneakers,Tommy Hilfiger,White,37,Yes,No,Yes,3
+d554,07/07/16,21973,Men,Flip Flops,Adidas,Blue,38,Yes,No,No,4
+d555,08/07/16,21283,Men,Sneakers,Adidas,Blue,39,Yes,Yes,No,5
+d556,09/07/16,22244,Men,Sneakers,Kate Spade,Red,37,Yes,No,No,4
+d557,10/07/16,21002,Men,Boots,Aldo,Black,39,Yes,No,No,5
+d558,11/07/16,21755,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,4
+d559,12/07/16,20486,Women,Stilettos,Kate Spade,Red,37,Yes,No,Yes,2
+d560,13/07/16,21745,Women,Wedges,Tommy Hilfiger,White,39,Yes,No,No,5
+d561,14/07/16,21933,Men,Boots,Aldo,Black,39,Yes,No,No,5
+d562,15/07/16,22835,Men,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d563,16/07/16,21252,Men,Sneakers,Coach,Pink,41,Yes,No,No,5
+d564,17/07/16,20811,Men,Flip Flops,Aldo,Black,40,Yes,Yes,No,5
+d565,18/07/16,21251,Men,Sneakers,Coach,Pink,38,Yes,No,No,5
+d566,19/07/16,21178,Women,Stilettos,Tommy Hilfiger,White,40,Yes,Yes,No,4
+d567,20/07/16,21194,Men,Boots,Adidas,Blue,38,Yes,Yes,No,4
+d568,21/07/16,20276,Men,Flip Flops,Adidas,Blue,39,Yes,No,No,4
+d569,22/07/16,22098,Men,Flip Flops,Aldo,Black,40,Yes,No,No,5
+d570,23/07/16,21330,Men,Sneakers,Coach,Pink,39,Yes,Yes,No,4
+d571,24/07/16,20972,Men,Boots,Kate Spade,Red,40,Yes,No,No,5
+d572,25/07/16,21495,Men,Flip Flops,Kate Spade,Red,37,Yes,Yes,No,5
+d573,26/07/16,3171,Men,Sneakers,Kate Spade,Red,38,Yes,Yes,No,5
+d574,27/07/16,3118,Men,Boots,Kate Spade,Red,39,Yes,No,No,5
+d575,28/07/16,3034,Women,Stilettos,Adidas,Blue,40,Yes,No,No,5
+d576,29/07/16,2702,Men,Boots,Tommy Hilfiger,White,37,Yes,No,No,4
+d577,30/07/16,2888,Men,Boots,Aldo,Black,37,Yes,Yes,No,4
+d578,31/07/16,2972,Men,Flip Flops,Aldo,Black,37,Yes,No,No,4
+d579,01/08/16,2817,Men,Sneakers,Kate Spade,Red,37,Yes,Yes,No,5
+d580,02/08/16,2732,Men,Flip Flops,Coach,Pink,41,Yes,No,No,4
+d581,03/08/16,3314,Men,Sneakers,Kate Spade,Red,38,Yes,No,No,5
+d582,04/08/16,3280,Men,Boots,Aldo,Black,37,Yes,No,No,5
+d583,05/08/16,3068,Women,Stilettos,Coach,Pink,38,Yes,No,No,5
+d584,06/08/16,2888,Men,Boots,Kate Spade,Red,37,Yes,Yes,No,4
+d585,07/08/16,2986,Women,Stilettos,Kate Spade,Red,40,Yes,No,No,5
+d586,08/08/16,3335,Men,Sneakers,Aldo,Black,40,Yes,Yes,Yes,2
+d587,09/08/16,2966,Women,Stilettos,Coach,Pink,38,Yes,No,No,4
+d588,10/08/16,3016,Women,Stilettos,Tommy Hilfiger,White,37,Yes,No,No,5
+d589,11/08/16,3100,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d590,12/08/16,3378,Men,Flip Flops,Kate Spade,Red,37,Yes,No,Yes,3
+d591,13/08/16,2966,Men,Boots,Adidas,Blue,38,Yes,Yes,No,5
+d592,14/08/16,3137,Men,Boots,Coach,Pink,40,Yes,No,No,5
+d593,15/08/16,2952,Women,Stilettos,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d594,16/08/16,3059,Men,Sneakers,Adidas,Blue,38,Yes,No,No,4
+d595,17/08/16,2918,Women,Stilettos,Adidas,Blue,37,Yes,Yes,No,5
+d596,18/08/16,2807,Men,Boots,Kate Spade,Red,40,Yes,Yes,Yes,2
+d597,19/08/16,2747,Men,Boots,Aldo,Black,40,Yes,No,No,4
+d598,20/08/16,2689,Men,Sneakers,Kate Spade,Red,40,Yes,Yes,No,5
+d599,21/08/16,3030,Women,Stilettos,Kate Spade,Red,38,Yes,Yes,No,5
+d600,22/08/16,2864,Men,Flip Flops,Kate Spade,Red,40,Yes,No,Yes,3
+d601,23/08/16,2872,Men,Boots,Adidas,Blue,38,Yes,No,Yes,2
+d602,24/08/16,2885,Men,Boots,Tommy Hilfiger,White,37,Yes,No,No,4
+d603,25/08/16,3237,Men,Boots,Kate Spade,Red,38,Yes,No,No,5
+d604,26/08/16,3065,Men,Sneakers,Adidas,Blue,38,Yes,Yes,No,5
+d605,27/08/16,2825,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,Yes,1
+d606,28/08/16,2931,Men,Sneakers,Kate Spade,Red,38,Yes,Yes,No,5
+d607,29/08/16,2831,Men,Flip Flops,Aldo,Black,39,Yes,No,No,5
+d608,30/08/16,2904,Women,Stilettos,Aldo,Black,41,Yes,No,No,4
+d609,31/08/16,2806,Men,Boots,Tommy Hilfiger,White,39,Yes,Yes,Yes,1
+d610,01/09/16,2849,Men,Sneakers,Kate Spade,Red,37,Yes,No,Yes,3
+d611,02/09/16,2780,Men,Flip Flops,Kate Spade,Red,38,Yes,No,Yes,2
+d612,03/09/16,3253,Men,Flip Flops,Tommy Hilfiger,White,37,Yes,No,No,4
+d613,04/09/16,3018,Men,Flip Flops,Coach,Pink,38,Yes,No,No,5
+d614,05/09/16,2973,Men,Boots,Coach,Pink,37,Yes,Yes,No,5
+d615,06/09/16,4883,Men,Boots,Coach,Pink,38,Yes,Yes,Yes,1
+d616,07/09/16,3444,Men,Boots,Coach,Pink,38,Yes,No,No,5
+d617,08/09/16,3528,Men,Flip Flops,Aldo,Black,37,Yes,No,No,5
+d618,09/09/16,3678,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,4
+d619,10/09/16,4660,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d620,11/09/16,2981,Women,Wedges,Tommy Hilfiger,White,38,Yes,No,No,3
+d621,12/09/16,2863,Men,Boots,Coach,Pink,41,Yes,Yes,Yes,2
+d622,13/09/16,2606,Men,Sneakers,Aldo,Black,41,Yes,No,Yes,3
+d623,14/09/16,2753,Men,Boots,Adidas,Blue,38,Yes,Yes,No,4
+d624,15/09/16,2790,Women,Wedges,Coach,Pink,38,Yes,No,No,5
+d625,16/09/16,3296,Men,Sneakers,Aldo,Black,39,Yes,No,No,5
+d626,17/09/16,3115,Men,Boots,Coach,Pink,40,Yes,No,No,5
+d627,18/09/16,3566,Women,Stilettos,Coach,Pink,40,Yes,No,No,5
+d628,19/09/16,2946,Women,Stilettos,Coach,Pink,40,Yes,No,No,4
+d629,20/09/16,3290,Men,Boots,Adidas,Blue,40,Yes,No,Yes,3
+d630,21/09/16,2930,Men,Flip Flops,Aldo,Black,39,Yes,Yes,No,4
+d631,22/09/16,3121,Women,Stilettos,Kate Spade,Red,40,Yes,No,Yes,2
+d632,23/09/16,2947,Men,Flip Flops,Adidas,Blue,41,Yes,No,Yes,3
+d633,24/09/16,3143,Men,Boots,Kate Spade,Red,40,Yes,No,No,4
+d634,25/09/16,3073,Men,Sneakers,Kate Spade,Red,39,Yes,No,No,5
+d635,26/09/16,3079,Men,Sneakers,Tommy Hilfiger,White,41,Yes,No,No,5
+d636,27/09/16,3284,Men,Sneakers,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d637,28/09/16,3072,Men,Sneakers,Coach,Pink,39,Yes,Yes,No,5
+d638,29/09/16,3229,Men,Boots,Aldo,Black,40,Yes,Yes,No,4
+d639,30/09/16,2909,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,No,Yes,3
+d640,01/10/16,2996,Women,Stilettos,Coach,Pink,37,Yes,Yes,No,4
+d641,02/10/16,2971,Men,Flip Flops,Adidas,Blue,40,Yes,No,No,5
+d642,03/10/16,3291,Women,Wedges,Aldo,Black,37,Yes,No,No,5
+d643,04/10/16,3049,Men,Flip Flops,Tommy Hilfiger,White,40,Yes,No,No,5
+d644,05/10/16,3048,Men,Boots,Kate Spade,Red,40,Yes,No,No,5
+d645,06/10/16,3028,Men,Boots,Aldo,Black,40,Yes,No,No,5
+d646,07/10/16,3270,Men,Sneakers,Aldo,Black,37,Yes,Yes,No,5
+d647,08/10/16,3108,Men,Boots,Adidas,Blue,37,Yes,Yes,No,5
+d648,09/10/16,2832,Men,Flip Flops,Coach,Pink,37,Yes,Yes,No,5
+d649,10/10/16,2925,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,No,No,5
+d650,11/10/16,2751,Women,Stilettos,Kate Spade,Red,40,Yes,Yes,Yes,1
+d651,12/10/16,3177,Men,Boots,Tommy Hilfiger,White,40,Yes,No,No,5
+d652,13/10/16,2898,Men,Boots,Tommy Hilfiger,White,38,Yes,No,Yes,3
+d653,14/10/16,3036,Men,Boots,Coach,Pink,38,Yes,No,No,5
+d654,15/10/16,3103,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,Yes,3
+d655,16/10/16,3156,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,No,No,4
+d656,17/10/16,3211,Women,Wedges,Coach,Pink,40,Yes,No,No,5
+d657,18/10/16,2785,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d658,19/10/16,2910,Men,Sneakers,Kate Spade,Red,38,Yes,Yes,No,5
+d659,20/10/16,2923,Men,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d660,21/10/16,3091,Women,Stilettos,Aldo,Black,38,Yes,No,Yes,1
+d661,22/10/16,2861,Men,Flip Flops,Coach,Pink,39,Yes,No,No,5
+d662,23/10/16,3060,Men,Sneakers,Kate Spade,Red,37,Yes,No,Yes,3
+d663,24/10/16,3070,Men,Boots,Coach,Pink,40,Yes,Yes,No,5
+d664,25/10/16,3536,Men,Sneakers,Adidas,Blue,41,Yes,Yes,Yes,3
+d665,26/10/16,3119,Men,Boots,Aldo,Black,38,Yes,No,No,4
+d666,27/10/16,3079,Men,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d667,28/10/16,5079,Men,Sneakers,Coach,Pink,37,Yes,Yes,Yes,2
+d668,29/10/16,3762,Women,Stilettos,Aldo,Black,38,Yes,No,Yes,3
+d669,30/10/16,3674,Men,Flip Flops,Coach,Pink,37,Yes,No,Yes,1
+d670,31/10/16,3795,Men,Boots,Coach,Pink,40,Yes,No,Yes,2
+d671,01/11/16,4585,Men,Flip Flops,Aldo,Black,41,Yes,No,No,5
+d672,02/11/16,3496,Men,Sneakers,Coach,Pink,39,Yes,Yes,No,5
+d673,03/11/16,3120,Men,Boots,Kate Spade,Red,37,Yes,Yes,No,5
+d674,04/11/16,2914,Men,Boots,Aldo,Black,37,Yes,Yes,No,5
+d675,05/11/16,2875,Men,Boots,Coach,Pink,39,Yes,No,No,4
+d676,06/11/16,2959,Women,Stilettos,Coach,Pink,40,Yes,No,No,5
+d677,07/11/16,3339,Men,Boots,Coach,Pink,40,Yes,No,Yes,2
+d678,08/11/16,3492,Men,Boots,Kate Spade,Red,37,Yes,No,No,3
+d679,09/11/16,3564,Men,Boots,Aldo,Black,39,Yes,Yes,Yes,1
+d680,10/11/16,3122,Men,Flip Flops,Adidas,Blue,40,Yes,No,Yes,2
+d681,11/11/16,3592,Men,Sneakers,Aldo,Black,41,Yes,Yes,No,5
+d682,12/11/16,3472,Men,Boots,Kate Spade,Red,39,Yes,Yes,No,5
+d683,13/11/16,3393,Men,Boots,Aldo,Black,41,Yes,No,No,5
+d684,14/11/16,3213,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,5
+d685,15/11/16,3313,Women,Stilettos,Tommy Hilfiger,White,39,Yes,Yes,No,4
+d686,16/11/16,4029,Men,Boots,Coach,Pink,40,Yes,Yes,No,5
+d687,17/11/16,3518,Men,Flip Flops,Adidas,Blue,37,Yes,No,No,5
+d688,18/11/16,3300,Men,Flip Flops,Coach,Pink,40,Yes,Yes,No,5
+d689,19/11/16,3248,Women,Wedges,Tommy Hilfiger,White,40,Yes,Yes,No,4
+d690,20/11/16,3609,Women,Stilettos,Coach,Pink,38,Yes,Yes,No,4
+d691,21/11/16,3338,Women,Stilettos,Coach,Pink,39,Yes,No,Yes,1
+d692,22/11/16,3361,Women,Stilettos,Coach,Pink,38,Yes,No,No,4
+d693,23/11/16,3419,Women,Wedges,Adidas,Blue,37,Yes,Yes,No,4
+d694,24/11/16,3598,Men,Flip Flops,Coach,Pink,39,Yes,No,No,5
+d695,25/11/16,3417,Men,Boots,Coach,Pink,38,Yes,No,No,5
+d696,26/11/16,3273,Women,Wedges,Kate Spade,Red,38,Yes,No,No,5
+d697,27/11/16,3250,Women,Wedges,Adidas,Blue,39,Yes,No,No,5
+d698,28/11/16,3296,Men,Sneakers,Coach,Pink,39,Yes,No,No,5
+d699,29/11/16,3412,Women,Stilettos,Aldo,Black,40,Yes,No,No,4
+d700,30/11/16,3162,Men,Sneakers,Kate Spade,Red,38,Yes,Yes,No,4
+d701,01/12/16,3212,Men,Sneakers,Coach,Pink,40,Yes,No,Yes,1
+d702,02/12/16,3068,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,No,4
+d703,03/12/16,3241,Men,Boots,Kate Spade,Red,41,Yes,Yes,No,4
+d704,04/12/16,3067,Men,Sneakers,Adidas,Blue,38,Yes,No,No,5
+d705,05/12/16,3140,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d706,06/12/16,3208,Men,Flip Flops,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d707,07/12/16,3446,Men,Sneakers,Coach,Pink,41,Yes,No,Yes,1
+d708,08/12/16,3506,Men,Flip Flops,Adidas,Blue,37,Yes,Yes,Yes,1
+d709,09/12/16,2998,Men,Sneakers,Kate Spade,Red,40,Yes,Yes,Yes,1
+d710,10/12/16,3073,Men,Boots,Kate Spade,Red,41,Yes,No,Yes,1
+d711,11/12/16,3101,Men,Sneakers,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d712,12/12/16,3430,Men,Flip Flops,Aldo,Black,41,Yes,No,No,5
+d713,13/12/16,3253,Men,Boots,Kate Spade,Red,38,Yes,No,Yes,1
+d714,14/12/16,3133,Women,Stilettos,Adidas,Blue,38,Yes,No,No,5
+d715,15/12/16,3195,Men,Boots,Aldo,Black,40,Yes,No,Yes,1
+d716,16/12/16,16526,Men,Flip Flops,Adidas,Blue,40,Yes,Yes,No,5
+d717,17/12/16,16062,Men,Sneakers,Coach,Pink,41,Yes,Yes,Yes,1
+d718,18/12/16,15671,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,Yes,1
+d719,19/12/16,14329,Men,Sneakers,Coach,Pink,39,Yes,No,Yes,1
+d720,20/12/16,16013,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d721,21/12/16,15586,Men,Flip Flops,Adidas,Blue,38,Yes,Yes,No,5
+d722,22/12/16,16930,Men,Sneakers,Kate Spade,Red,37,Yes,No,No,5
+d723,23/12/16,14720,Men,Boots,Kate Spade,Red,38,Yes,No,Yes,1
+d724,24/12/16,17703,Men,Sneakers,Coach,Pink,40,Yes,Yes,No,5
+d725,25/12/16,16671,Women,Stilettos,Kate Spade,Red,40,Yes,No,Yes,1
+d726,26/12/16,15198,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d727,27/12/16,15404,Men,Boots,Kate Spade,Red,40,Yes,No,Yes,2
+d728,28/12/16,14980,Women,Wedges,Coach,Pink,41,Yes,No,No,4
+d729,29/12/16,16199,Men,Sneakers,Kate Spade,Red,38,Yes,No,Yes,1
+d730,30/12/16,15240,Men,Flip Flops,Aldo,Black,38,Yes,Yes,Yes,3
+d731,31/12/16,15319,Men,Flip Flops,Adidas,Blue,39,Yes,Yes,No,5
+d732,01/01/17,16444,Men,Sneakers,Coach,Pink,39,Yes,No,No,5
+d733,02/01/17,18573,Men,Boots,Aldo,Black,40,Yes,No,Yes,3
+d734,03/01/17,16856,Men,Sneakers,Tommy Hilfiger,White,41,Yes,No,No,5
+d735,04/01/17,16772,Men,Flip Flops,Kate Spade,Red,37,Yes,Yes,Yes,1
+d736,05/01/17,16406,Men,Flip Flops,Coach,Pink,39,Yes,No,No,5
+d737,06/01/17,17597,Men,Boots,Aldo,Black,37,Yes,No,Yes,2
+d738,07/01/17,16903,Men,Sneakers,Adidas,Blue,38,Yes,No,No,4
+d739,08/01/17,15601,Men,Boots,Aldo,Black,38,Yes,Yes,Yes,1
+d740,09/01/17,15852,Women,Stilettos,Kate Spade,Red,39,Yes,No,Yes,3
+d741,10/01/17,15323,Women,Wedges,Adidas,Blue,41,Yes,No,No,5
+d742,11/01/17,16332,Women,Stilettos,Coach,Pink,40,Yes,Yes,No,5
+d743,12/01/17,15476,Men,Flip Flops,Kate Spade,Red,41,Yes,No,Yes,3
+d744,13/01/17,15399,Men,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d745,14/01/17,14507,Men,Flip Flops,Tommy Hilfiger,White,40,Yes,Yes,Yes,1
+d746,15/01/17,15109,Men,Sneakers,Coach,Pink,40,Yes,No,No,5
+d747,16/01/17,14242,Men,Flip Flops,Tommy Hilfiger,White,40,Yes,No,No,3
+d748,17/01/17,13085,Men,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d749,18/01/17,12755,Women,Wedges,Tommy Hilfiger,White,41,Yes,No,No,5
+d750,19/01/17,13284,Men,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d751,20/01/17,13603,Men,Sneakers,Coach,Pink,37,Yes,No,No,5
+d752,21/01/17,13445,Men,Boots,Aldo,Black,38,Yes,No,No,5
+d753,22/01/17,13327,Men,Flip Flops,Coach,Pink,40,Yes,Yes,Yes,2
+d754,23/01/17,13853,Men,Flip Flops,Aldo,Black,37,Yes,No,No,5
+d755,24/01/17,15054,Women,Wedges,Aldo,Black,40,Yes,Yes,No,5
+d756,25/01/17,14955,Men,Flip Flops,Coach,Pink,37,Yes,No,Yes,2
+d757,26/01/17,15188,Men,Sneakers,Tommy Hilfiger,White,40,Yes,Yes,Yes,3
+d758,27/01/17,22674,Men,Sneakers,Kate Spade,Red,41,Yes,Yes,No,5
+d759,28/01/17,16770,Men,Flip Flops,Coach,Pink,37,Yes,No,No,5
+d760,29/01/17,18347,Men,Flip Flops,Tommy Hilfiger,White,38,Yes,No,No,5
+d761,30/01/17,20902,Men,Flip Flops,Kate Spade,Red,40,Yes,Yes,No,5
+d762,31/01/17,27275,Men,Boots,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d763,01/02/17,14640,Women,Stilettos,Tommy Hilfiger,White,38,Yes,No,Yes,2
+d764,02/02/17,13504,Men,Sneakers,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d765,03/02/17,13061,Women,Stilettos,Tommy Hilfiger,White,38,Yes,No,No,5
+d766,04/02/17,12612,Men,Boots,Coach,Pink,40,Yes,No,Yes,2
+d767,05/02/17,12870,Men,Boots,Kate Spade,Red,37,Yes,No,Yes,1
+d768,06/02/17,15149,Men,Boots,Tommy Hilfiger,White,37,Yes,Yes,No,4
+d769,07/02/17,14869,Men,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d770,08/02/17,15721,Men,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d771,09/02/17,14226,Women,Stilettos,Coach,Pink,38,Yes,No,No,5
+d772,10/02/17,15026,Men,Sneakers,Aldo,Black,41,Yes,Yes,No,5
+d773,11/02/17,14944,Men,Flip Flops,Coach,Pink,39,Yes,Yes,Yes,1
+d774,12/02/17,16853,Men,Flip Flops,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d775,13/02/17,14384,Women,Stilettos,Coach,Pink,37,Yes,Yes,No,5
+d776,14/02/17,14592,Men,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d777,15/02/17,15345,Men,Boots,Coach,Pink,37,Yes,Yes,Yes,1
+d778,16/02/17,14487,Men,Flip Flops,Coach,Pink,39,Yes,No,No,4
+d779,17/02/17,16393,Men,Flip Flops,Coach,Pink,38,Yes,No,No,5
+d780,18/02/17,14792,Women,Stilettos,Kate Spade,Red,38,Yes,No,No,5
+d781,19/02/17,15046,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,5
+d782,20/02/17,14531,Men,Sneakers,Kate Spade,Red,37,Yes,No,No,5
+d783,21/02/17,13827,Men,Flip Flops,Coach,Pink,37,Yes,Yes,Yes,1
+d784,22/02/17,15239,Men,Sneakers,Adidas,Blue,37,Yes,No,No,5
+d785,23/02/17,17055,Men,Boots,Coach,Pink,39,Yes,Yes,No,5
+d786,24/02/17,15986,Men,Flip Flops,Kate Spade,Red,37,Yes,Yes,No,5
+d787,25/02/17,16221,Women,Wedges,Tommy Hilfiger,White,38,Yes,No,Yes,2
+d788,26/02/17,15433,Men,Flip Flops,Adidas,Blue,37,Yes,Yes,No,5
+d789,27/02/17,16945,Men,Boots,Coach,Pink,41,Yes,No,Yes,2
+d790,28/02/17,17093,Men,Flip Flops,Coach,Pink,39,Yes,No,No,5
+d791,01/03/17,15268,Men,Flip Flops,Kate Spade,Red,41,Yes,Yes,No,5
+d792,02/03/17,15265,Men,Sneakers,Coach,Pink,40,Yes,Yes,No,5
+d793,03/03/17,14839,Women,Stilettos,Tommy Hilfiger,White,39,Yes,Yes,No,4
+d794,04/03/17,16015,Men,Boots,Kate Spade,Red,38,Yes,No,No,5
+d795,05/03/17,14849,Men,Sneakers,Aldo,Black,39,Yes,No,Yes,1
+d796,06/03/17,14935,Women,Wedges,Adidas,Blue,40,Yes,Yes,No,5
+d797,07/03/17,14204,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,No,5
+d798,08/03/17,14816,Men,Sneakers,Kate Spade,Red,41,Yes,Yes,Yes,1
+d799,09/03/17,14835,Men,Flip Flops,Kate Spade,Red,40,Yes,No,No,3
+d800,10/03/17,13514,Men,Sneakers,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d801,11/03/17,13360,Women,Stilettos,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d802,12/03/17,13075,Women,Stilettos,Coach,Pink,38,Yes,Yes,No,5
+d803,13/03/17,14817,Men,Flip Flops,Coach,Pink,38,No,No,No,4
+d804,14/03/17,13865,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d805,15/03/17,14179,Men,Sneakers,Tommy Hilfiger,White,37,Yes,No,Yes,1
+d806,16/03/17,14194,Women,Stilettos,Adidas,Blue,37,Yes,No,No,5
+d807,17/03/17,15234,Men,Boots,Tommy Hilfiger,White,37,Yes,No,No,5
+d808,18/03/17,15361,Men,Flip Flops,Coach,Pink,41,Yes,No,Yes,1
+d809,19/03/17,15243,Men,Flip Flops,Adidas,Blue,39,Yes,Yes,Yes,3
+d810,20/03/17,22498,Men,Sneakers,Kate Spade,Red,37,Yes,No,Yes,1
+d811,21/03/17,16885,Men,Boots,Adidas,Blue,40,Yes,Yes,No,5
+d812,22/03/17,19033,Men,Flip Flops,Adidas,Blue,41,Yes,Yes,No,5
+d813,23/03/17,20346,Men,Flip Flops,Kate Spade,Red,37,Yes,Yes,No,5
+d814,24/03/17,26446,Women,Stilettos,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d815,25/03/17,15980,Men,Sneakers,Adidas,Blue,40,Yes,No,No,5
+d816,26/03/17,13953,Men,Flip Flops,Aldo,Black,38,Yes,Yes,No,5
+d817,27/03/17,13442,Men,Flip Flops,Adidas,Blue,39,Yes,No,No,5
+d818,28/03/17,13262,Men,Flip Flops,Kate Spade,Red,38,Yes,Yes,No,4
+d819,29/03/17,13156,Men,Boots,Aldo,Black,38,Yes,No,No,5
+d820,30/03/17,14963,Men,Boots,Adidas,Blue,41,Yes,No,No,5
+d821,31/03/17,16206,Men,Flip Flops,Aldo,Black,38,Yes,Yes,No,5
+d822,01/04/17,16326,Women,Stilettos,Aldo,Black,37,Yes,Yes,No,5
+d823,02/04/17,14651,Men,Boots,Aldo,Black,40,Yes,Yes,No,5
+d824,03/04/17,15503,Men,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d825,04/04/17,15693,Women,Wedges,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d826,05/04/17,17480,Men,Flip Flops,Adidas,Blue,38,Yes,Yes,No,5
+d827,06/04/17,14951,Men,Flip Flops,Adidas,Blue,40,Yes,No,No,5
+d828,07/04/17,15089,Men,Boots,Aldo,Black,39,Yes,Yes,No,4
+d829,08/04/17,18401,Men,Boots,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d830,09/04/17,16163,Men,Sneakers,Kate Spade,Red,40,Yes,Yes,No,5
+d831,10/04/17,14560,Men,Boots,Kate Spade,Red,38,Yes,No,No,5
+d832,11/04/17,14562,Men,Sneakers,Adidas,Blue,37,Yes,No,No,5
+d833,12/04/17,15434,Men,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,No,4
+d834,13/04/17,15170,Men,Sneakers,Aldo,Black,38,Yes,Yes,No,5
+d835,14/04/17,15136,Men,Boots,Aldo,Black,39,Yes,No,No,4
+d836,15/04/17,16037,Men,Boots,Tommy Hilfiger,White,40,Yes,No,No,5
+d837,16/04/17,16811,Men,Sneakers,Aldo,Black,39,Yes,No,No,5
+d838,17/04/17,16966,Men,Flip Flops,Kate Spade,Red,41,Yes,Yes,No,4
+d839,18/04/17,16422,Men,Flip Flops,Kate Spade,Red,38,Yes,No,No,4
+d840,19/04/17,16182,Men,Boots,Coach,Pink,40,Yes,No,No,5
+d841,20/04/17,16488,Men,Sneakers,Adidas,Blue,39,Yes,Yes,No,5
+d842,21/04/17,18763,Men,Boots,Aldo,Black,37,Yes,No,No,5
+d843,22/04/17,15881,Women,Stilettos,Coach,Pink,37,Yes,Yes,No,4
+d844,23/04/17,15743,Women,Wedges,Kate Spade,Red,41,Yes,No,No,5
+d845,24/04/17,15132,Women,Wedges,Aldo,Black,40,Yes,Yes,No,4
+d846,25/04/17,16272,Men,Boots,Tommy Hilfiger,White,41,Yes,No,No,5
+d847,26/04/17,15883,Men,Flip Flops,Coach,Pink,39,Yes,No,No,5
+d848,27/04/17,15430,Men,Flip Flops,Tommy Hilfiger,White,41,Yes,No,No,4
+d849,28/04/17,15010,Women,Stilettos,Kate Spade,Red,37,Yes,No,No,4
+d850,29/04/17,15774,Men,Sneakers,Aldo,Black,39,Yes,No,No,5
+d851,30/04/17,16080,Men,Flip Flops,Adidas,Blue,37,Yes,No,Yes,1
+d852,01/05/17,13751,Women,Wedges,Coach,Pink,40,Yes,Yes,No,5
+d853,02/05/17,14256,Women,Wedges,Coach,Pink,41,Yes,No,No,4
+d854,03/05/17,13691,Men,Flip Flops,Aldo,Black,37,Yes,No,Yes,3
+d855,04/05/17,15181,Men,Sneakers,Kate Spade,Red,41,Yes,Yes,No,5
+d856,05/05/17,14593,Women,Wedges,Kate Spade,Red,40,Yes,No,No,5
+d857,06/05/17,14368,Men,Flip Flops,Adidas,Blue,37,Yes,No,Yes,3
+d858,07/05/17,14314,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,4
+d859,08/05/17,4967,Men,Sneakers,Adidas,Blue,40,Yes,Yes,No,5
+d860,09/05/17,5241,Men,Sneakers,Coach,Pink,41,Yes,No,No,5
+d861,10/05/17,5067,Men,Boots,Adidas,Blue,41,Yes,No,Yes,1
+d862,11/05/17,4960,Men,Sneakers,Kate Spade,Red,41,Yes,No,No,5
+d863,12/05/17,4914,Men,Boots,Aldo,Black,37,Yes,No,No,4
+d864,13/05/17,4804,Men,Boots,Coach,Pink,40,Yes,No,Yes,3
+d865,14/05/17,5744,Men,Boots,Coach,Pink,40,Yes,Yes,No,5
+d866,15/05/17,5147,Men,Boots,Kate Spade,Red,37,Yes,No,No,5
+d867,16/05/17,5611,Men,Boots,Tommy Hilfiger,White,41,Yes,Yes,Yes,3
+d868,17/05/17,4842,Men,Flip Flops,Aldo,Black,41,Yes,No,No,4
+d869,18/05/17,4062,Men,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d870,19/05/17,4047,Men,Boots,Kate Spade,Red,37,No,Yes,No,5
+d871,20/05/17,3736,Men,Boots,Adidas,Blue,39,Yes,No,No,5
+d872,21/05/17,3954,Men,Boots,Adidas,Blue,39,Yes,No,No,5
+d873,22/05/17,3726,Men,Sneakers,Kate Spade,Red,38,Yes,Yes,Yes,1
+d874,23/05/17,3951,Men,Flip Flops,Coach,Pink,41,Yes,Yes,Yes,1
+d875,24/05/17,4427,Men,Sneakers,Coach,Pink,38,Yes,Yes,Yes,1
+d876,25/05/17,5091,Men,Sneakers,Kate Spade,Red,40,Yes,No,Yes,1
+d877,26/05/17,4985,Men,Sneakers,Adidas,Blue,39,Yes,No,Yes,2
+d878,27/05/17,4811,Men,Sneakers,Adidas,Blue,39,Yes,No,Yes,1
+d879,28/05/17,5537,Men,Sneakers,Tommy Hilfiger,White,37,Yes,No,Yes,1
+d880,29/05/17,5755,Men,Sneakers,Kate Spade,Red,38,Yes,No,Yes,3
+d881,30/05/17,5934,Men,Flip Flops,Coach,Pink,41,Yes,No,No,5
+d882,31/05/17,5571,Men,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d883,01/06/17,5702,Men,Sneakers,Tommy Hilfiger,White,41,Yes,Yes,Yes,1
+d884,02/06/17,6035,Men,Flip Flops,Coach,Pink,37,Yes,No,Yes,1
+d885,03/06/17,6438,Men,Flip Flops,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d886,04/06/17,5981,Men,Sneakers,Kate Spade,Red,39,Yes,Yes,Yes,1
+d887,05/06/17,5823,Men,Boots,Coach,Pink,37,Yes,Yes,Yes,2
+d888,06/06/17,5543,Men,Sneakers,Kate Spade,Red,39,Yes,Yes,Yes,1
+d889,07/06/17,5327,Men,Flip Flops,Adidas,Blue,39,Yes,No,Yes,1
+d890,08/06/17,5357,Men,Boots,Aldo,Black,41,Yes,No,No,3
+d891,09/06/17,4894,Men,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d892,10/06/17,4880,Men,Boots,Coach,Pink,38,Yes,Yes,No,5
+d893,11/06/17,4489,Men,Boots,Aldo,Black,41,Yes,Yes,No,5
+d894,12/06/17,4802,Men,Sneakers,Tommy Hilfiger,White,37,Yes,No,No,5
+d895,13/06/17,4633,Men,Boots,Coach,Pink,38,Yes,Yes,No,4
+d896,14/06/17,4724,Women,Wedges,Coach,Pink,39,Yes,No,Yes,3
+d897,15/06/17,4654,Men,Sneakers,Aldo,Black,38,Yes,No,No,5
+d898,16/06/17,4805,Men,Sneakers,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d899,17/06/17,5075,Men,Boots,Coach,Pink,41,Yes,No,No,5
+d900,18/06/17,4825,Men,Boots,Coach,Pink,38,Yes,No,No,5
+d901,19/06/17,8351,Women,Wedges,Coach,Pink,39,Yes,Yes,No,5
+d902,20/06/17,5528,Men,Boots,Aldo,Black,39,Yes,Yes,No,5
+d903,21/06/17,5997,Men,Boots,Kate Spade,Red,38,Yes,Yes,No,5
+d904,22/06/17,7163,Men,Sneakers,Aldo,Black,37,Yes,No,No,5
+d905,23/06/17,10451,Women,Stilettos,Kate Spade,Red,39,Yes,No,No,4
+d906,24/06/17,7295,Men,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,3
+d907,25/06/17,6611,Men,Flip Flops,Adidas,Blue,38,Yes,Yes,No,5
+d908,26/06/17,5473,Men,Flip Flops,Kate Spade,Red,38,Yes,No,No,5
+d909,27/06/17,5215,Men,Sneakers,Kate Spade,Red,40,Yes,No,No,5
+d910,28/06/17,5133,Women,Stilettos,Kate Spade,Red,37,Yes,No,No,5
+d911,29/06/17,5580,Men,Boots,Kate Spade,Red,40,Yes,No,Yes,3
+d912,30/06/17,5599,Men,Flip Flops,Adidas,Blue,41,Yes,No,No,5
+d913,01/07/17,5723,Women,Sneakers,Aldo,Black,38,Yes,Yes,No,5
+d914,02/07/17,5466,Women,Sneakers,Coach,Pink,38,Yes,No,Yes,1
+d915,03/07/17,5513,Women,Flip Flops,Adidas,Blue,41,Yes,Yes,No,5
+d916,04/07/17,5589,Women,Sneakers,Coach,Pink,40,Yes,No,No,5
+d917,05/07/17,6350,Women,Flip Flops,Kate Spade,Red,38,Yes,No,Yes,2
+d918,06/07/17,5590,Women,Flip Flops,Adidas,Blue,40,Yes,No,Yes,1
+d919,07/07/17,5134,Women,Sneakers,Tommy Hilfiger,White,39,Yes,No,Yes,2
+d920,08/07/17,5005,Women,Flip Flops,Aldo,Black,40,Yes,Yes,No,5
+d921,09/07/17,4233,Women,Stilettos,Tommy Hilfiger,White,37,Yes,No,Yes,3
+d922,10/07/17,4665,Women,Sneakers,Adidas,Blue,37,Yes,Yes,No,5
+d923,11/07/17,4104,Women,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d924,12/07/17,4070,Women,Boots,Kate Spade,Red,40,Yes,Yes,Yes,1
+d925,13/07/17,4140,Women,Flip Flops,Adidas,Blue,40,Yes,Yes,No,5
+d926,14/07/17,4246,Women,Sneakers,Coach,Pink,37,Yes,No,No,5
+d927,15/07/17,4572,Women,Boots,Tommy Hilfiger,White,37,Yes,No,Yes,2
+d928,16/07/17,5422,Women,Sneakers,Kate Spade,Red,39,Yes,No,Yes,1
+d929,17/07/17,6211,Women,Flip Flops,Aldo,Black,40,Yes,No,Yes,2
+d930,18/07/17,6109,Women,Boots,Kate Spade,Red,41,Yes,No,No,5
+d931,19/07/17,6400,Women,Stilettos,Tommy Hilfiger,White,37,Yes,Yes,Yes,1
+d932,20/07/17,7043,Women,Sneakers,Aldo,Black,40,Yes,No,Yes,1
+d933,21/07/17,7617,Women,Sneakers,Aldo,Black,38,Yes,Yes,Yes,3
+d934,22/07/17,6427,Women,Flip Flops,Aldo,Black,41,Yes,No,No,4
+d935,23/07/17,6880,Women,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,Yes,1
+d936,24/07/17,6533,Women,Flip Flops,Coach,Pink,39,Yes,No,No,5
+d937,25/07/17,6953,Women,Flip Flops,Kate Spade,Red,40,Yes,No,Yes,3
+d938,26/07/17,6706,Women,Flip Flops,Aldo,Black,39,Yes,No,Yes,1
+d939,27/07/17,6451,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d940,28/07/17,6299,Women,Sneakers,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d941,29/07/17,5923,Women,Boots,Tommy Hilfiger,White,40,Yes,Yes,Yes,1
+d942,30/07/17,6131,Women,Sneakers,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d943,31/07/17,5589,Women,Boots,Kate Spade,Red,38,Yes,Yes,Yes,3
+d944,01/08/17,5361,Women,Flip Flops,Adidas,Blue,38,Yes,No,No,4
+d945,02/08/17,4888,Women,Sneakers,Aldo,Black,38,Yes,Yes,Yes,1
+d946,03/08/17,5258,Women,Flip Flops,Kate Spade,Red,38,Yes,No,No,5
+d947,04/08/17,5019,Women,Sneakers,Coach,Pink,40,Yes,No,Yes,3
+d948,05/08/17,5586,Women,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,Yes,1
+d949,06/08/17,5273,Women,Sneakers,Adidas,Blue,41,Yes,No,Yes,1
+d950,07/08/17,5645,Women,Flip Flops,Aldo,Black,37,Yes,No,Yes,1
+d951,08/08/17,5560,Women,Wedges,Tommy Hilfiger,White,38,Yes,Yes,Yes,3
+d952,09/08/17,5398,Women,Flip Flops,Aldo,Black,40,Yes,Yes,Yes,1
+d953,10/08/17,9490,Women,Boots,Coach,Pink,41,Yes,No,No,5
+d954,11/08/17,5919,Women,Wedges,Kate Spade,Red,40,Yes,No,No,5
+d955,12/08/17,6538,Women,Boots,Coach,Pink,40,Yes,Yes,No,5
+d956,13/08/17,7202,Women,Boots,Adidas,Blue,37,Yes,Yes,Yes,3
+d957,14/08/17,10597,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,No,Yes,2
+d958,15/08/17,8159,Women,Sneakers,Adidas,Blue,40,Yes,No,No,5
+d959,16/08/17,7131,Women,Stilettos,Kate Spade,Red,39,Yes,Yes,No,5
+d960,17/08/17,5938,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,No,5
+d961,18/08/17,5780,Women,Boots,Tommy Hilfiger,White,39,Yes,No,Yes,3
+d962,19/08/17,5410,Women,Flip Flops,Aldo,Black,40,Yes,No,Yes,1
+d963,20/08/17,5804,Women,Boots,Aldo,Black,38,Yes,No,No,5
+d964,21/08/17,5634,Women,Wedges,Coach,Pink,38,Yes,Yes,No,5
+d965,22/08/17,6209,Women,Sneakers,Coach,Pink,40,Yes,Yes,No,5
+d966,23/08/17,6030,Women,Stilettos,Adidas,Blue,40,Yes,No,Yes,3
+d967,24/08/17,5510,Women,Flip Flops,Kate Spade,Red,38,Yes,No,Yes,2
+d968,25/08/17,5791,Women,Stilettos,Aldo,Black,39,Yes,No,No,5
+d969,26/08/17,6692,Women,Wedges,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d970,27/08/17,6159,Women,Flip Flops,Coach,Pink,38,Yes,Yes,No,5
+d971,28/08/17,5833,Women,Sneakers,Aldo,Black,40,Yes,No,No,4
+d972,29/08/17,6214,Women,Stilettos,Adidas,Blue,41,Yes,Yes,No,5
+d973,30/08/17,5174,Women,Stilettos,Coach,Pink,39,Yes,Yes,Yes,1
+d974,31/08/17,4573,Women,Flip Flops,Kate Spade,Red,39,Yes,Yes,Yes,3
+d975,01/09/17,4678,Women,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d976,02/09/17,4651,Women,Flip Flops,Coach,Pink,38,Yes,No,Yes,1
+d977,03/09/17,4603,Women,Flip Flops,Aldo,Black,39,Yes,No,No,5
+d978,04/09/17,4684,Women,Stilettos,Kate Spade,Red,41,Yes,Yes,Yes,1
+d979,05/09/17,5327,Women,Stilettos,Tommy Hilfiger,White,40,Yes,No,No,5
+d980,06/09/17,5984,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d981,07/09/17,6429,Women,Boots,Kate Spade,Red,38,Yes,No,No,4
+d982,08/09/17,6669,Women,Boots,Kate Spade,Red,38,Yes,Yes,No,5
+d983,09/09/17,6873,Women,Sneakers,Coach,Pink,41,Yes,No,Yes,1
+d984,10/09/17,7043,Women,Wedges,Tommy Hilfiger,White,37,Yes,Yes,Yes,3
+d985,11/09/17,8056,Women,Sneakers,Coach,Pink,39,Yes,No,No,5
+d986,12/09/17,6941,Women,Stilettos,Coach,Pink,40,Yes,No,Yes,1
+d987,13/09/17,6863,Women,Boots,Kate Spade,Red,37,Yes,No,No,5
+d988,14/09/17,6863,Women,Flip Flops,Adidas,Blue,41,Yes,Yes,Yes,1
+d989,15/09/17,6809,Women,Boots,Adidas,Blue,38,Yes,Yes,No,5
+d990,16/09/17,6759,Women,Stilettos,Aldo,Black,38,Yes,Yes,No,5
+d991,17/09/17,6424,Women,Boots,Adidas,Blue,40,No,Yes,Yes,3
+d992,18/09/17,6090,Women,Flip Flops,Kate Spade,Red,38,Yes,Yes,No,5
+d993,19/09/17,5864,Women,Boots,Adidas,Blue,40,Yes,Yes,Yes,3
+d994,20/09/17,5978,Women,Sneakers,Adidas,Blue,39,Yes,No,No,3
+d995,21/09/17,5411,Women,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,No,4
+d996,22/09/17,5308,Women,Stilettos,Aldo,Black,37,Yes,No,No,5
+d997,23/09/17,5255,Women,Flip Flops,Aldo,Black,40,Yes,Yes,No,5
+d998,24/09/17,5058,Women,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d999,25/09/17,5034,Women,Flip Flops,Kate Spade,Red,41,Yes,Yes,No,5
+d1000,26/09/17,5164,Women,Sneakers,Kate Spade,Red,40,Yes,Yes,No,5
+d1001,27/09/17,4955,Women,Boots,Adidas,Blue,38,Yes,Yes,Yes,3
+d1002,28/09/17,10041,Women,Flip Flops,Aldo,Black,38,Yes,No,No,5
+d1003,29/09/17,9948,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,Yes,No,3
+d1004,30/09/17,9639,Women,Stilettos,Coach,Pink,37,Yes,No,Yes,3
+d1005,01/10/17,8475,Women,Sneakers,Kate Spade,Red,38,Yes,Yes,No,4
+d1006,02/10/17,8815,Women,Boots,Kate Spade,Red,39,Yes,No,No,5
+d1007,03/10/17,8603,Women,Boots,Kate Spade,Red,38,Yes,No,No,5
+d1008,04/10/17,8399,Women,Sneakers,Tommy Hilfiger,White,41,Yes,No,No,5
+d1009,05/10/17,7725,Women,Stilettos,Aldo,Black,39,Yes,Yes,No,5
+d1010,06/10/17,9145,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,No,No,5
+d1011,07/10/17,9160,Women,Stilettos,Coach,Pink,38,Yes,Yes,No,3
+d1012,08/10/17,8829,Women,Boots,Aldo,Black,40,Yes,No,No,5
+d1013,09/10/17,8504,Women,Boots,Tommy Hilfiger,White,38,Yes,No,Yes,3
+d1014,10/10/17,7786,Women,Flip Flops,Kate Spade,Red,40,Yes,No,Yes,3
+d1015,11/10/17,9168,Women,Wedges,Aldo,Black,38,Yes,No,No,4
+d1016,12/10/17,8733,Women,Boots,Coach,Pink,39,Yes,No,No,5
+d1017,13/10/17,8183,Women,Stilettos,Coach,Pink,37,Yes,No,No,5
+d1018,14/10/17,8680,Women,Flip Flops,Kate Spade,Red,39,Yes,Yes,No,5
+d1019,15/10/17,9582,Women,Sneakers,Aldo,Black,38,Yes,Yes,No,5
+d1020,16/10/17,9148,Women,Sneakers,Kate Spade,Red,40,Yes,Yes,No,5
+d1021,17/10/17,8699,Women,Boots,Aldo,Black,37,Yes,No,No,3
+d1022,18/10/17,8149,Women,Boots,Coach,Pink,39,Yes,No,No,5
+d1023,19/10/17,8523,Women,Flip Flops,Adidas,Blue,40,Yes,No,Yes,3
+d1024,20/10/17,8452,Women,Flip Flops,Adidas,Blue,40,Yes,No,Yes,3
+d1025,21/10/17,8486,Women,Flip Flops,Coach,Pink,38,Yes,No,No,4
+d1026,22/10/17,7855,Women,Sneakers,Kate Spade,Red,39,Yes,Yes,No,5
+d1027,23/10/17,7872,Women,Stilettos,Tommy Hilfiger,White,38,Yes,No,No,5
+d1028,24/10/17,8934,Women,Wedges,Aldo,Black,37,Yes,No,No,5
+d1029,25/10/17,8679,Women,Flip Flops,Kate Spade,Red,39,Yes,No,No,5
+d1030,26/10/17,8706,Women,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d1031,27/10/17,8888,Women,Sneakers,Aldo,Black,39,Yes,No,Yes,2
+d1032,28/10/17,8990,Women,Flip Flops,Adidas,Blue,40,Yes,Yes,Yes,2
+d1033,29/10/17,8314,Women,Flip Flops,Aldo,Black,37,Yes,No,No,5
+d1034,30/10/17,8367,Women,Flip Flops,Coach,Pink,41,Yes,No,No,5
+d1035,31/10/17,7737,Women,Flip Flops,Adidas,Blue,40,Yes,Yes,No,5
+d1036,01/11/17,8041,Women,Sneakers,Coach,Pink,41,Yes,No,Yes,1
+d1037,02/11/17,8703,Women,Sneakers,Aldo,Black,38,Yes,Yes,No,5
+d1038,03/11/17,8265,Women,Sneakers,Aldo,Black,41,Yes,No,No,5
+d1039,04/11/17,8364,Women,Sneakers,Adidas,Blue,38,Yes,No,No,5
+d1040,05/11/17,8307,Women,Stilettos,Kate Spade,Red,41,Yes,No,No,5
+d1041,06/11/17,9272,Women,Sneakers,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d1042,07/11/17,9115,Women,Stilettos,Adidas,Blue,38,Yes,No,No,5
+d1043,08/11/17,8856,Women,Stilettos,Coach,Pink,37,Yes,No,No,5
+d1044,09/11/17,12616,Women,Sneakers,Adidas,Blue,41,Yes,Yes,Yes,1
+d1045,10/11/17,9527,Women,Stilettos,Adidas,Blue,39,Yes,No,No,5
+d1046,11/11/17,10690,Women,Flip Flops,Aldo,Black,37,Yes,Yes,Yes,3
+d1047,12/11/17,12205,Women,Boots,Kate Spade,Red,41,Yes,No,No,5
+d1048,13/11/17,15116,Women,Stilettos,Kate Spade,Red,37,Yes,Yes,Yes,2
+d1049,14/11/17,7735,Women,Flip Flops,Kate Spade,Red,37,Yes,No,Yes,1
+d1050,15/11/17,8730,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,No,Yes,2
+d1051,16/11/17,8096,Women,Flip Flops,Tommy Hilfiger,White,41,Yes,No,No,4
+d1052,17/11/17,8226,Women,Stilettos,Adidas,Blue,39,Yes,No,No,5
+d1053,18/11/17,7822,Women,Boots,Coach,Pink,40,Yes,Yes,No,5
+d1054,19/11/17,9445,Women,Boots,Adidas,Blue,37,Yes,No,Yes,1
+d1055,20/11/17,9961,Women,Flip Flops,Kate Spade,Red,38,Yes,Yes,No,5
+d1056,21/11/17,10651,Women,Sneakers,Kate Spade,Red,37,Yes,No,Yes,3
+d1057,22/11/17,9173,Women,Stilettos,Coach,Pink,38,Yes,No,No,5
+d1058,23/11/17,9352,Women,Stilettos,Coach,Pink,37,Yes,No,Yes,2
+d1059,24/11/17,9003,Women,Boots,Tommy Hilfiger,White,41,Yes,Yes,Yes,1
+d1060,25/11/17,8982,Women,Sneakers,Tommy Hilfiger,White,40,Yes,No,Yes,2
+d1061,26/11/17,8279,Women,Boots,Aldo,Black,41,Yes,No,No,4
+d1062,27/11/17,8787,Women,Sneakers,Coach,Pink,39,Yes,No,No,5
+d1063,28/11/17,9498,Women,Boots,Tommy Hilfiger,White,40,Yes,No,No,4
+d1064,29/11/17,9082,Women,Boots,Kate Spade,Red,37,Yes,Yes,No,4
+d1065,30/11/17,9374,Women,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d1066,01/12/17,8550,Women,Flip Flops,Adidas,Blue,39,Yes,No,No,5
+d1067,02/12/17,9414,Women,Sneakers,Adidas,Blue,39,Yes,No,No,4
+d1068,03/12/17,8957,Women,Boots,Coach,Pink,39,Yes,No,Yes,1
+d1069,04/12/17,8360,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,No,5
+d1070,05/12/17,8579,Women,Sneakers,Coach,Pink,38,Yes,Yes,No,5
+d1071,06/12/17,9292,Women,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d1072,07/12/17,8973,Women,Stilettos,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d1073,08/12/17,9220,Women,Sneakers,Coach,Pink,38,Yes,No,No,4
+d1074,09/12/17,8648,Women,Stilettos,Adidas,Blue,40,Yes,No,No,4
+d1075,10/12/17,8836,Women,Sneakers,Adidas,Blue,41,Yes,No,No,5
+d1076,11/12/17,8619,Women,Sneakers,Aldo,Black,37,Yes,Yes,No,5
+d1077,12/12/17,8499,Women,Sneakers,Kate Spade,Red,41,Yes,Yes,No,4
+d1078,13/12/17,8299,Women,Boots,Coach,Pink,39,Yes,No,Yes,1
+d1079,14/12/17,8070,Women,Boots,Coach,Pink,41,Yes,No,No,5
+d1080,15/12/17,8923,Women,Boots,Tommy Hilfiger,White,37,Yes,No,No,5
+d1081,16/12/17,8567,Women,Flip Flops,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d1082,17/12/17,8950,Women,Boots,Aldo,Black,37,Yes,No,No,5
+d1083,18/12/17,9125,Women,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,No,4
+d1084,19/12/17,8913,Women,Boots,Coach,Pink,37,Yes,Yes,No,4
+d1085,20/12/17,8483,Women,Boots,Coach,Pink,37,Yes,Yes,No,5
+d1086,21/12/17,8709,Women,Boots,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d1087,22/12/17,8064,Women,Boots,Coach,Pink,38,Yes,No,No,4
+d1088,23/12/17,8090,Women,Stilettos,Tommy Hilfiger,White,41,Yes,Yes,Yes,1
+d1089,24/12/17,9299,Women,Wedges,Kate Spade,Red,40,Yes,Yes,No,5
+d1090,25/12/17,8631,Women,Boots,Aldo,Black,37,Yes,Yes,No,5
+d1091,26/12/17,9059,Women,Boots,Adidas,Blue,37,Yes,No,No,5
+d1092,27/12/17,8767,Women,Boots,Adidas,Blue,40,Yes,Yes,No,5
+d1093,28/12/17,9478,Women,Stilettos,Tommy Hilfiger,White,38,Yes,Yes,No,4
+d1094,29/12/17,9170,Women,Sneakers,Adidas,Blue,41,Yes,Yes,No,4
+d1095,30/12/17,8970,Women,Sneakers,Coach,Pink,41,Yes,No,No,5
+d1096,31/12/17,12351,Women,Sneakers,Aldo,Black,40,Yes,No,No,5
+d1097,01/01/18,9866,Women,Flip Flops,Kate Spade,Red,37,Yes,No,No,4
+d1098,02/01/18,10519,Women,Sneakers,Kate Spade,Red,39,Yes,No,Yes,1
+d1099,03/01/18,11181,Women,Stilettos,Kate Spade,Red,40,Yes,No,No,5
+d1100,04/01/18,14622,Women,Boots,Adidas,Blue,41,Yes,No,No,5
+d1101,05/01/18,8585,Women,Sneakers,Coach,Pink,40,Yes,Yes,No,5
+d1102,06/01/18,8721,Women,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d1103,07/01/18,8176,Women,Boots,Tommy Hilfiger,White,37,Yes,No,Yes,1
+d1104,08/01/18,8139,Women,Stilettos,Aldo,Black,40,Yes,No,No,5
+d1105,09/01/18,7781,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,Yes,No,4
+d1106,10/01/18,9276,Women,Boots,Aldo,Black,37,Yes,Yes,No,4
+d1107,11/01/18,10214,Women,Flip Flops,Coach,Pink,41,Yes,Yes,No,5
+d1108,12/01/18,10962,Women,Flip Flops,Kate Spade,Red,41,Yes,No,No,5
+d1109,13/01/18,9285,Women,Boots,Adidas,Blue,41,Yes,Yes,No,5
+d1110,14/01/18,9522,Women,Boots,Adidas,Blue,40,Yes,No,No,5
+d1111,15/01/18,9601,Women,Flip Flops,Adidas,Blue,41,Yes,No,Yes,1
+d1112,16/01/18,9211,Women,Stilettos,Kate Spade,Red,39,Yes,No,No,4
+d1113,17/01/18,8742,Women,Stilettos,Coach,Pink,39,Yes,No,Yes,1
+d1114,18/01/18,9059,Women,Flip Flops,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d1115,19/01/18,10468,Women,Flip Flops,Tommy Hilfiger,White,41,Yes,No,No,4
+d1116,20/01/18,9099,Women,Boots,Coach,Pink,39,Yes,No,No,4
+d1117,21/01/18,8722,Women,Stilettos,Coach,Pink,38,Yes,No,No,5
+d1118,22/01/18,8794,Women,Wedges,Tommy Hilfiger,White,41,Yes,No,No,5
+d1119,23/01/18,9372,Women,Sneakers,Coach,Pink,39,Yes,No,No,5
+d1120,24/01/18,9201,Women,Sneakers,Coach,Pink,37,Yes,Yes,No,5
+d1121,25/01/18,9139,Women,Flip Flops,Adidas,Blue,37,Yes,No,Yes,1
+d1122,26/01/18,8951,Women,Flip Flops,Tommy Hilfiger,White,38,No,No,No,4
+d1123,27/01/18,9211,Women,Flip Flops,Aldo,Black,38,Yes,Yes,No,5
+d1124,28/01/18,9288,Women,Boots,Tommy Hilfiger,White,37,Yes,No,No,5
+d1125,29/01/18,9169,Women,Flip Flops,Tommy Hilfiger,White,41,Yes,No,No,5
+d1126,30/01/18,8994,Women,Boots,Kate Spade,Red,41,Yes,Yes,No,5
+d1127,31/01/18,8782,Women,Sneakers,Adidas,Blue,37,Yes,No,No,5
+d1128,01/02/18,9362,Women,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,5
+d1129,02/02/18,8904,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d1130,03/02/18,8888,Women,Sneakers,Adidas,Blue,40,Yes,No,Yes,1
+d1131,04/02/18,8382,Women,Flip Flops,Coach,Pink,38,Yes,No,No,4
+d1132,05/02/18,8970,Women,Stilettos,Adidas,Blue,39,Yes,No,No,4
+d1133,06/02/18,9307,Women,Boots,Adidas,Blue,40,Yes,Yes,No,5
+d1134,07/02/18,8966,Women,Flip Flops,Coach,Pink,37,Yes,Yes,No,5
+d1135,08/02/18,9363,Women,Stilettos,Coach,Pink,41,Yes,Yes,No,5
+d1136,09/02/18,9761,Women,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d1137,10/02/18,9321,Women,Flip Flops,Kate Spade,Red,37,Yes,Yes,No,5
+d1138,11/02/18,8835,Women,Boots,Coach,Pink,39,Yes,No,No,5
+d1139,12/02/18,8577,Women,Boots,Kate Spade,Red,37,Yes,No,No,5
+d1140,13/02/18,8847,Women,Boots,Coach,Pink,37,Yes,No,Yes,1
+d1141,14/02/18,9764,Women,Sneakers,Aldo,Black,41,Yes,No,No,4
+d1142,15/02/18,9275,Women,Boots,Adidas,Blue,41,Yes,No,No,4
+d1143,16/02/18,9003,Women,Boots,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d1144,17/02/18,8916,Women,Stilettos,Coach,Pink,37,Yes,No,No,5
+d1145,18/02/18,5495,Women,Sneakers,Kate Spade,Red,37,Yes,Yes,No,5
+d1146,19/02/18,5526,Women,Flip Flops,Aldo,Black,39,Yes,No,No,5
+d1147,20/02/18,5113,Women,Sneakers,Kate Spade,Red,39,Yes,Yes,No,5
+d1148,21/02/18,4737,Women,Boots,Adidas,Blue,39,Yes,Yes,No,5
+d1149,22/02/18,5072,Women,Stilettos,Aldo,Black,40,Yes,No,No,5
+d1150,23/02/18,4941,Women,Boots,Kate Spade,Red,40,Yes,No,Yes,1
+d1151,24/02/18,4857,Women,Flip Flops,Coach,Pink,37,Yes,Yes,No,4
+d1152,25/02/18,4849,Women,Boots,Tommy Hilfiger,White,38,Yes,No,No,4
+d1153,26/02/18,5452,Women,Boots,Coach,Pink,38,Yes,No,No,5
+d1154,27/02/18,5293,Women,Flip Flops,Adidas,Blue,39,Yes,No,No,5
+d1155,28/02/18,4857,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,No,No,5
+d1156,01/03/18,4886,Women,Boots,Kate Spade,Red,37,Yes,No,No,5
+d1157,02/03/18,4917,Women,Boots,Kate Spade,Red,37,Yes,No,No,5
+d1158,03/03/18,5261,Women,Boots,Coach,Pink,38,Yes,No,No,5
+d1159,04/03/18,4927,Women,Boots,Kate Spade,Red,37,Yes,No,No,5
+d1160,05/03/18,5062,Women,Flip Flops,Kate Spade,Red,39,Yes,No,Yes,1
+d1161,06/03/18,5581,Women,Wedges,Coach,Pink,41,Yes,Yes,No,4
+d1162,07/03/18,5860,Women,Flip Flops,Coach,Pink,39,Yes,No,No,4
+d1163,08/03/18,5227,Women,Boots,Adidas,Blue,38,Yes,No,Yes,1
+d1164,09/03/18,5130,Women,Stilettos,Kate Spade,Red,38,Yes,Yes,No,5
+d1165,10/03/18,5092,Women,Flip Flops,Coach,Pink,41,Yes,No,No,5
+d1166,11/03/18,5288,Women,Flip Flops,Aldo,Black,41,Yes,Yes,Yes,1
+d1167,12/03/18,4853,Women,Sneakers,Adidas,Blue,38,Yes,No,Yes,1
+d1168,13/03/18,4740,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d1169,14/03/18,4626,Women,Flip Flops,Kate Spade,Red,40,Yes,No,Yes,1
+d1170,15/03/18,4686,Women,Flip Flops,Kate Spade,Red,40,Yes,No,Yes,1
+d1171,16/03/18,5228,Women,Flip Flops,Coach,Pink,39,Yes,Yes,Yes,1
+d1172,17/03/18,4818,Women,Sneakers,Tommy Hilfiger,White,41,Yes,Yes,Yes,3
+d1173,18/03/18,4993,Women,Flip Flops,Adidas,Blue,41,Yes,Yes,Yes,1
+d1174,19/03/18,5067,Women,Wedges,Kate Spade,Red,41,Yes,No,No,5
+d1175,20/03/18,5110,Women,Flip Flops,Coach,Pink,38,Yes,Yes,No,5
+d1176,21/03/18,4848,Women,Flip Flops,Adidas,Blue,37,Yes,No,Yes,1
+d1177,22/03/18,4634,Women,Flip Flops,Coach,Pink,38,Yes,No,Yes,1
+d1178,23/03/18,4529,Women,Sneakers,Tommy Hilfiger,White,41,Yes,No,No,5
+d1179,24/03/18,4956,Women,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,Yes,1
+d1180,25/03/18,5050,Women,Sneakers,Adidas,Blue,40,Yes,No,Yes,1
+d1181,26/03/18,4547,Women,Sneakers,Kate Spade,Red,38,Yes,No,Yes,1
+d1182,27/03/18,4663,Women,Flip Flops,Aldo,Black,37,Yes,Yes,Yes,3
+d1183,28/03/18,5088,Women,Wedges,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d1184,29/03/18,5178,Women,Flip Flops,Adidas,Blue,41,Yes,No,No,5
+d1185,30/03/18,5208,Women,Stilettos,Aldo,Black,39,Yes,Yes,No,5
+d1186,31/03/18,5198,Women,Stilettos,Tommy Hilfiger,White,40,Yes,No,Yes,1
+d1187,01/04/18,7680,Women,Sneakers,Aldo,Black,37,Yes,No,Yes,1
+d1188,02/04/18,5781,Women,Sneakers,Kate Spade,Red,41,Yes,Yes,No,5
+d1189,03/04/18,6181,Women,Boots,Coach,Pink,37,Yes,No,Yes,1
+d1190,04/04/18,6852,Women,Flip Flops,Aldo,Black,37,Yes,No,Yes,1
+d1191,05/04/18,8733,Women,Sneakers,Adidas,Blue,41,Yes,Yes,Yes,1
+d1192,06/04/18,4597,Women,Flip Flops,Kate Spade,Red,40,Yes,Yes,No,3
+d1193,07/04/18,4909,Women,Sneakers,Coach,Pink,38,Yes,No,Yes,1
+d1194,08/04/18,4580,Women,Flip Flops,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d1195,09/04/18,4540,Women,Boots,Kate Spade,Red,41,Yes,No,No,5
+d1196,10/04/18,4635,Women,Stilettos,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d1197,11/04/18,5446,Women,Stilettos,Aldo,Black,39,Yes,Yes,Yes,1
+d1198,12/04/18,5552,Women,Sneakers,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d1199,13/04/18,6109,Women,Boots,Kate Spade,Red,37,Yes,Yes,Yes,1
+d1200,14/04/18,5131,Women,Wedges,Coach,Pink,37,Yes,No,Yes,1
+d1201,15/04/18,5420,Women,Stilettos,Adidas,Blue,38,Yes,No,Yes,1
+d1202,16/04/18,5177,Women,Boots,Tommy Hilfiger,White,37,Yes,Yes,Yes,3
+d1203,17/04/18,5152,Women,Boots,Adidas,Blue,41,Yes,No,No,4
+d1204,18/04/18,4974,Women,Flip Flops,Aldo,Black,37,Yes,Yes,No,4
+d1205,19/04/18,5209,Women,Stilettos,Coach,Pink,39,Yes,No,No,5
+d1206,20/04/18,5616,Women,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,Yes,1
+d1207,21/04/18,5284,Women,Sneakers,Coach,Pink,38,Yes,No,Yes,3
+d1208,22/04/18,5495,Women,Flip Flops,Adidas,Blue,39,Yes,No,Yes,2
+d1209,23/04/18,5322,Women,Sneakers,Aldo,Black,38,Yes,Yes,Yes,1
+d1210,24/04/18,5452,Women,Boots,Coach,Pink,40,Yes,Yes,No,5
+d1211,25/04/18,5391,Women,Stilettos,Coach,Pink,38,Yes,No,No,5
+d1212,26/04/18,5182,Women,Wedges,Coach,Pink,39,Yes,No,No,4
+d1213,27/04/18,5538,Women,Boots,Tommy Hilfiger,White,37,Yes,Yes,No,4
+d1214,28/04/18,5870,Women,Boots,Aldo,Black,40,Yes,Yes,No,4
+d1215,29/04/18,5500,Women,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d1216,30/04/18,5586,Women,Boots,Coach,Pink,38,Yes,Yes,Yes,1
+d1217,01/05/18,5387,Women,Flip Flops,Coach,Pink,37,Yes,Yes,Yes,3
+d1218,02/05/18,5370,Women,Flip Flops,Aldo,Black,38,Yes,No,Yes,2
+d1219,03/05/18,5359,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,Yes,1
+d1220,04/05/18,5128,Women,Sneakers,Aldo,Black,41,Yes,Yes,No,5
+d1221,05/05/18,4914,Women,Stilettos,Tommy Hilfiger,White,38,Yes,No,No,5
+d1222,06/05/18,4714,Women,Flip Flops,Coach,Pink,38,Yes,No,No,4
+d1223,07/05/18,5548,Women,Boots,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d1224,08/05/18,5202,Women,Sneakers,Aldo,Black,38,Yes,No,No,5
+d1225,09/05/18,5408,Women,Sneakers,Aldo,Black,38,Yes,Yes,No,5
+d1226,10/05/18,5426,Women,Flip Flops,Tommy Hilfiger,White,37,Yes,No,No,5
+d1227,11/05/18,5446,Women,Boots,Kate Spade,Red,41,No,Yes,No,5
+d1228,12/05/18,5287,Women,Wedges,Aldo,Black,37,Yes,Yes,No,5
+d1229,13/05/18,5002,Women,Flip Flops,Aldo,Black,39,Yes,No,No,5
+d1230,14/05/18,5067,Women,Sneakers,Adidas,Blue,41,Yes,No,No,4
+d1231,15/05/18,5085,Women,Flip Flops,Kate Spade,Red,40,Yes,No,Yes,2
+d1232,16/05/18,5538,Women,Flip Flops,Aldo,Black,37,Yes,Yes,Yes,1
+d1233,17/05/18,5295,Women,Flip Flops,Tommy Hilfiger,White,37,Yes,No,No,5
+d1234,18/05/18,5570,Women,Sneakers,Aldo,Black,39,Yes,No,No,5
+d1235,19/05/18,5485,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d1236,20/05/18,5978,Women,Flip Flops,Coach,Pink,40,Yes,Yes,No,5
+d1237,21/05/18,5945,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,No,5
+d1238,22/05/18,5424,Women,Stilettos,Kate Spade,Red,40,Yes,No,No,5
+d1239,23/05/18,8147,Women,Stilettos,Aldo,Black,37,Yes,No,No,5
+d1240,24/05/18,6131,Women,Sneakers,Adidas,Blue,40,Yes,Yes,No,4
+d1241,25/05/18,6303,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,Yes,2
+d1242,26/05/18,7055,Women,Flip Flops,Adidas,Blue,37,Yes,Yes,Yes,1
+d1243,27/05/18,9053,Women,Sneakers,Aldo,Black,37,Yes,No,No,5
+d1244,28/05/18,5497,Women,Flip Flops,Kate Spade,Red,39,Yes,No,Yes,1
+d1245,29/05/18,5195,Women,Boots,Adidas,Blue,38,Yes,No,No,5
+d1246,30/05/18,4749,Women,Flip Flops,Coach,Pink,39,Yes,Yes,No,5
+d1247,31/05/18,4801,Women,Sneakers,Aldo,Black,40,Yes,Yes,No,5
+d1248,01/06/18,4824,Women,Flip Flops,Tommy Hilfiger,White,41,Yes,No,No,5
+d1249,02/06/18,5499,Women,Boots,Coach,Pink,37,Yes,No,Yes,1
+d1250,03/06/18,6097,Women,Boots,Tommy Hilfiger,White,37,Yes,Yes,Yes,1
+d1251,04/06/18,6589,Women,Sneakers,Coach,Pink,41,Yes,No,Yes,1
+d1252,05/06/18,5635,Women,Stilettos,Aldo,Black,40,Yes,No,Yes,1
+d1253,06/06/18,6194,Women,Flip Flops,Adidas,Blue,40,Yes,Yes,No,5
+d1254,07/06/18,5749,Women,Sneakers,Tommy Hilfiger,White,41,Yes,Yes,Yes,1
+d1255,08/06/18,5503,Women,Boots,Aldo,Black,37,Yes,No,No,5
+d1256,09/06/18,5507,Women,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d1257,10/06/18,5749,Women,Boots,Kate Spade,Red,38,Yes,Yes,No,5
+d1258,11/06/18,6778,Women,Boots,Coach,Pink,37,Yes,No,No,5
+d1259,12/06/18,5785,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d1260,13/06/18,5428,Women,Flip Flops,Coach,Pink,40,Yes,No,Yes,1
+d1261,14/06/18,5504,Women,Flip Flops,Kate Spade,Red,37,Yes,Yes,Yes,1
+d1262,15/06/18,5862,Women,Sneakers,Kate Spade,Red,39,Yes,No,Yes,1
+d1263,16/06/18,5925,Women,Sneakers,Adidas,Blue,38,Yes,No,Yes,2
+d1264,17/06/18,5714,Women,Boots,Coach,Pink,41,Yes,No,Yes,1
+d1265,18/06/18,5472,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,No,Yes,2
+d1266,19/06/18,5836,Women,Flip Flops,Adidas,Blue,37,Yes,No,Yes,3
+d1267,20/06/18,5825,Women,Boots,Tommy Hilfiger,White,37,Yes,No,Yes,2
+d1268,21/06/18,5646,Women,Stilettos,Kate Spade,Red,40,Yes,No,No,5
+d1269,22/06/18,5621,Women,Sneakers,Aldo,Black,39,Yes,Yes,No,5
+d1270,23/06/18,5447,Women,Boots,Kate Spade,Red,39,Yes,Yes,No,5
+d1271,24/06/18,5787,Women,Sneakers,Aldo,Black,38,Yes,No,Yes,1
+d1272,25/06/18,5365,Women,Flip Flops,Tommy Hilfiger,White,40,Yes,No,No,5
+d1273,26/06/18,5139,Women,Boots,Adidas,Blue,38,Yes,No,Yes,2
+d1274,27/06/18,4959,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d1275,28/06/18,5338,Women,Boots,Tommy Hilfiger,White,41,Yes,No,Yes,2
+d1276,29/06/18,5387,Women,Flip Flops,Aldo,Black,41,Yes,No,Yes,3
+d1277,30/06/18,5351,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,Yes,2
+d1278,01/07/18,5728,Women,Sneakers,Kate Spade,Red,41,Yes,Yes,No,5
+d1279,02/07/18,5768,Women,Flip Flops,Coach,Pink,38,Yes,No,No,5
+d1280,03/07/18,5658,Women,Flip Flops,Coach,Pink,41,Yes,No,No,5
+d1281,04/07/18,5234,Women,Sneakers,Adidas,Blue,37,Yes,Yes,Yes,1
+d1282,05/07/18,5337,Women,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d1283,06/07/18,5163,Women,Sneakers,Aldo,Black,38,Yes,No,No,5
+d1284,07/07/18,6067,Women,Boots,Tommy Hilfiger,White,41,Yes,No,No,5
+d1285,08/07/18,5584,Women,Sneakers,Aldo,Black,38,Yes,No,No,5
+d1286,09/07/18,5420,Women,Boots,Adidas,Blue,40,Yes,Yes,No,5
+d1287,10/07/18,5497,Women,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d1288,11/07/18,21930,Women,Sneakers,Aldo,Black,41,Yes,Yes,No,5
+d1289,12/07/18,21760,Women,Boots,Coach,Pink,37,Yes,Yes,No,5
+d1290,13/07/18,21134,Women,Sneakers,Kate Spade,Red,38,Yes,No,No,5
+d1291,14/07/18,20067,Women,Boots,Coach,Pink,41,Yes,Yes,No,5
+d1292,15/07/18,19870,Women,Boots,Tommy Hilfiger,White,40,Yes,No,No,5
+d1293,16/07/18,19413,Women,Sneakers,Kate Spade,Red,39,Yes,No,No,5
+d1294,17/07/18,19468,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,No,No,5
+d1295,18/07/18,18935,Women,Sneakers,Coach,Pink,41,Yes,Yes,No,5
+d1296,19/07/18,21386,Women,Flip Flops,Tommy Hilfiger,White,37,Yes,No,No,5
+d1297,20/07/18,20410,Women,Wedges,Tommy Hilfiger,White,38,Yes,No,No,5
+d1298,21/07/18,18262,Women,Boots,Aldo,Black,38,Yes,Yes,No,5
+d1299,22/07/18,18295,Women,Boots,Aldo,Black,40,Yes,No,No,5
+d1300,23/07/18,17906,Women,Wedges,Coach,Pink,38,Yes,No,No,5
+d1301,24/07/18,19214,Women,Stilettos,Kate Spade,Red,37,Yes,No,No,5
+d1302,25/07/18,18080,Women,Wedges,Kate Spade,Red,41,Yes,Yes,No,5
+d1303,26/07/18,18476,Women,Flip Flops,Adidas,Blue,41,Yes,Yes,No,4
+d1304,27/07/18,19046,Women,Sneakers,Coach,Pink,40,Yes,No,No,4
+d1305,28/07/18,19314,Women,Flip Flops,Kate Spade,Red,40,Yes,Yes,No,4
+d1306,29/07/18,18275,Women,Boots,Tommy Hilfiger,White,40,Yes,Yes,Yes,3
+d1307,30/07/18,18376,Women,Boots,Adidas,Blue,38,Yes,Yes,No,5
+d1308,31/07/18,17681,Women,Flip Flops,Coach,Pink,41,Yes,No,No,5
+d1309,01/08/18,18458,Women,Wedges,Kate Spade,Red,37,Yes,Yes,No,5
+d1310,02/08/18,17697,Women,Stilettos,Coach,Pink,37,Yes,No,Yes,2
+d1311,03/08/18,18280,Women,Sneakers,Tommy Hilfiger,White,41,Yes,No,No,5
+d1312,04/08/18,18316,Women,Sneakers,Kate Spade,Red,39,Yes,No,No,5
+d1313,05/08/18,18326,Women,Boots,Adidas,Blue,38,Yes,Yes,No,4
+d1314,06/08/18,19492,Women,Sneakers,Aldo,Black,40,Yes,Yes,No,4
+d1315,07/08/18,19629,Women,Boots,Aldo,Black,37,Yes,No,No,4
+d1316,08/08/18,19831,Women,Stilettos,Kate Spade,Red,41,Yes,Yes,Yes,3
+d1317,09/08/18,17275,Women,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,5
+d1318,10/08/18,17663,Women,Boots,Aldo,Black,40,Yes,Yes,No,5
+d1319,11/08/18,17205,Women,Sneakers,Aldo,Black,37,Yes,Yes,No,5
+d1320,12/08/18,17167,Women,Boots,Kate Spade,Red,38,No,No,Yes,2
+d1321,13/08/18,16550,Women,Stilettos,Kate Spade,Red,39,Yes,No,No,5
+d1322,14/08/18,16458,Women,Sneakers,Kate Spade,Red,41,Yes,No,No,5
+d1323,15/08/18,17721,Women,Boots,Kate Spade,Red,37,Yes,No,No,5
+d1324,16/08/18,17038,Women,Flip Flops,Coach,Pink,40,Yes,No,No,5
+d1325,17/08/18,17402,Women,Sneakers,Kate Spade,Red,37,Yes,No,No,4
+d1326,18/08/18,17413,Women,Stilettos,Tommy Hilfiger,White,40,Yes,No,No,4
+d1327,19/08/18,18322,Women,Stilettos,Tommy Hilfiger,White,38,Yes,No,Yes,3
+d1328,20/08/18,18959,Women,Flip Flops,Kate Spade,Red,38,Yes,No,No,5
+d1329,21/08/18,19491,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d1330,22/08/18,29399,Women,Sneakers,Coach,Pink,38,Yes,No,No,5
+d1331,23/08/18,22512,Women,Stilettos,Adidas,Blue,40,Yes,Yes,No,5
+d1332,24/08/18,24117,Women,Sneakers,Kate Spade,Red,40,Yes,Yes,No,5
+d1333,25/08/18,28116,Women,Boots,Aldo,Black,41,Yes,No,No,5
+d1334,26/08/18,37490,Women,Flip Flops,Kate Spade,Red,40,Yes,Yes,No,5
+d1335,27/08/18,17072,Women,Stilettos,Tommy Hilfiger,White,40,Yes,No,No,4
+d1336,28/08/18,17143,Women,Flip Flops,Kate Spade,Red,38,Yes,Yes,No,4
+d1337,29/08/18,17108,Women,Flip Flops,Coach,Pink,40,Yes,No,Yes,3
+d1338,30/08/18,16775,Women,Boots,Adidas,Blue,40,Yes,No,No,5
+d1339,31/08/18,17157,Women,Flip Flops,Tommy Hilfiger,White,37,Yes,No,No,5
+d1340,01/09/18,19680,Women,Flip Flops,Coach,Pink,40,Yes,No,No,5
+d1341,02/09/18,21154,Women,Flip Flops,Tommy Hilfiger,White,37,Yes,No,No,5
+d1342,03/09/18,21069,Women,Boots,Tommy Hilfiger,White,41,Yes,No,No,5
+d1343,04/09/18,19679,Women,Sneakers,Coach,Pink,37,Yes,Yes,No,5
+d1344,05/09/18,19580,Women,Wedges,Coach,Pink,38,Yes,No,No,5
+d1345,06/09/18,19334,Women,Stilettos,Kate Spade,Red,37,Yes,No,No,4
+d1346,07/09/18,18847,Women,Sneakers,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d1347,08/09/18,18157,Women,Sneakers,Coach,Pink,39,Yes,No,No,4
+d1348,09/09/18,18277,Women,Flip Flops,Kate Spade,Red,41,Yes,No,No,5
+d1349,10/09/18,18707,Women,Wedges,Adidas,Blue,40,Yes,No,No,5
+d1350,11/09/18,17817,Women,Wedges,Kate Spade,Red,39,Yes,No,No,5
+d1351,12/09/18,20048,Women,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d1352,13/09/18,18736,Women,Boots,Coach,Pink,40,Yes,No,No,5
+d1353,14/09/18,18413,Women,Sneakers,Kate Spade,Red,41,Yes,No,No,5
+d1354,15/09/18,17129,Women,Sneakers,Kate Spade,Red,41,Yes,No,No,5
+d1355,16/09/18,17209,Women,Sneakers,Kate Spade,Red,39,Yes,No,No,4
+d1356,17/09/18,17430,Women,Stilettos,Kate Spade,Red,40,Yes,Yes,No,5
+d1357,18/09/18,17922,Women,Boots,Kate Spade,Red,38,Yes,No,No,4
+d1358,19/09/18,17400,Women,Flip Flops,Kate Spade,Red,41,Yes,Yes,No,5
+d1359,20/09/18,18179,Women,Flip Flops,Coach,Pink,37,Yes,No,No,5
+d1360,21/09/18,17118,Women,Sneakers,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d1361,22/09/18,17513,Women,Sneakers,Adidas,Blue,41,Yes,No,No,5
+d1362,23/09/18,16997,Women,Sneakers,Adidas,Blue,39,Yes,Yes,No,5
+d1363,24/09/18,17750,Women,Flip Flops,Adidas,Blue,41,Yes,No,No,5
+d1364,25/09/18,17743,Women,Flip Flops,Coach,Pink,38,Yes,Yes,No,5
+d1365,26/09/18,17458,Women,Boots,Kate Spade,Red,39,Yes,Yes,No,5
+d1366,27/09/18,18863,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,No,No,4
+d1367,28/09/18,19173,Women,Boots,Adidas,Blue,40,Yes,No,No,5
+d1368,29/09/18,19548,Women,Wedges,Aldo,Black,41,Yes,Yes,No,4
+d1369,30/09/18,17283,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d1370,01/10/18,17585,Women,Stilettos,Tommy Hilfiger,White,39,Yes,No,No,5
+d1371,02/10/18,16705,Women,Sneakers,Aldo,Black,40,Yes,No,No,4
+d1372,03/10/18,16508,Women,Flip Flops,Aldo,Black,40,Yes,No,No,4
+d1373,04/10/18,16859,Women,Stilettos,Adidas,Blue,40,Yes,No,No,5
+d1374,05/10/18,16277,Women,Sneakers,Tommy Hilfiger,White,37,Yes,No,No,5
+d1375,06/10/18,17882,Women,Flip Flops,Coach,Pink,38,Yes,No,No,5
+d1376,07/10/18,17047,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,No,4
+d1377,08/10/18,17459,Women,Flip Flops,Coach,Pink,38,Yes,No,No,5
+d1378,09/10/18,17717,Women,Boots,Kate Spade,Red,37,Yes,Yes,No,4
+d1379,10/10/18,19044,Women,Sneakers,Adidas,Blue,40,Yes,No,No,5
+d1380,11/10/18,20765,Women,Sneakers,Kate Spade,Red,39,Yes,No,No,5
+d1381,12/10/18,18690,Women,Flip Flops,Coach,Pink,38,Yes,No,No,4
+d1382,13/10/18,29501,Women,Stilettos,Coach,Pink,38,Yes,No,No,4
+d1383,14/10/18,20680,Women,Boots,Kate Spade,Red,38,Yes,No,No,5
+d1384,15/10/18,24293,Women,Sneakers,Coach,Pink,39,Yes,Yes,No,5
+d1385,16/10/18,25550,Women,Flip Flops,Kate Spade,Red,38,Yes,No,No,5
+d1386,17/10/18,34879,Women,Sneakers,Adidas,Blue,39,Yes,No,No,4
+d1387,18/10/18,19306,Women,Flip Flops,Tommy Hilfiger,White,40,Yes,No,No,5
+d1388,19/10/18,16834,Women,Flip Flops,Adidas,Blue,39,Yes,No,No,4
+d1389,20/10/18,17115,Women,Sneakers,Coach,Pink,41,Yes,No,No,5
+d1390,21/10/18,16755,Women,Boots,Kate Spade,Red,41,Yes,Yes,No,5
+d1391,22/10/18,16324,Women,Sneakers,Coach,Pink,38,Yes,No,No,4
+d1392,23/10/18,18674,Women,Sneakers,Coach,Pink,41,Yes,Yes,No,4
+d1393,24/10/18,22185,Women,Flip Flops,Adidas,Blue,40,Yes,No,No,5
+d1394,25/10/18,21687,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d1395,26/10/18,20394,Women,Wedges,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d1396,27/10/18,19903,Women,Wedges,Kate Spade,Red,40,Yes,Yes,No,4
+d1397,28/10/18,19174,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d1398,29/10/18,19308,Women,Sneakers,Kate Spade,Red,40,Yes,Yes,No,4
+d1399,30/10/18,18374,Women,Wedges,Aldo,Black,38,Yes,Yes,No,5
+d1400,31/10/18,18157,Women,Sneakers,Tommy Hilfiger,White,41,No,No,No,5
+d1401,01/11/18,21633,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,No,No,4
+d1402,02/11/18,19746,Women,Stilettos,Aldo,Black,39,Yes,Yes,No,4
+d1403,03/11/18,17771,Women,Stilettos,Aldo,Black,37,Yes,Yes,No,5
+d1404,04/11/18,17129,Women,Stilettos,Coach,Pink,41,Yes,No,No,5
+d1405,05/11/18,18213,Women,Stilettos,Kate Spade,Red,41,Yes,Yes,No,5
+d1406,06/11/18,17923,Women,Boots,Coach,Pink,40,Yes,No,No,5
+d1407,07/11/18,17951,Women,Flip Flops,Kate Spade,Red,41,Yes,No,No,5
+d1408,08/11/18,18309,Women,Stilettos,Aldo,Black,37,Yes,No,No,4
+d1409,09/11/18,17674,Women,Boots,Tommy Hilfiger,White,37,Yes,No,No,5
+d1410,10/11/18,18404,Women,Flip Flops,Coach,Pink,41,Yes,Yes,No,5
+d1411,11/11/18,18115,Women,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,5
+d1412,12/11/18,17553,Women,Flip Flops,Aldo,Black,41,Yes,No,No,5
+d1413,13/11/18,17074,Women,Boots,Aldo,Black,39,Yes,No,No,5
+d1414,14/11/18,18060,Women,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d1415,15/11/18,17655,Women,Boots,Kate Spade,Red,39,Yes,No,No,5
+d1416,16/11/18,18699,Women,Sneakers,Coach,Pink,41,Yes,No,No,5
+d1417,17/11/18,18176,Women,Sneakers,Coach,Pink,39,Yes,Yes,No,5
+d1418,18/11/18,19394,Women,Sneakers,Tommy Hilfiger,White,37,Yes,No,No,4
+d1419,19/11/18,18804,Women,Sneakers,Kate Spade,Red,37,Yes,No,No,5
+d1420,20/11/18,18277,Women,Boots,Adidas,Blue,39,Yes,No,No,5
+d1421,21/11/18,17649,Women,Flip Flops,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d1422,22/11/18,16502,Women,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d1423,23/11/18,17082,Women,Stilettos,Kate Spade,Red,40,Yes,Yes,No,5
+d1424,24/11/18,16401,Women,Boots,Tommy Hilfiger,White,41,Yes,No,No,4
+d1425,25/11/18,16718,Women,Flip Flops,Adidas,Blue,40,Yes,Yes,Yes,2
+d1426,26/11/18,16948,Women,Stilettos,Tommy Hilfiger,White,37,Yes,No,Yes,1
+d1427,27/11/18,17589,Women,Sneakers,Kate Spade,Red,40,Yes,Yes,No,4
+d1428,28/11/18,17138,Women,Sneakers,Coach,Pink,37,Yes,No,No,4
+d1429,29/11/18,17348,Women,Boots,Tommy Hilfiger,White,37,Yes,Yes,Yes,2
+d1430,30/11/18,17443,Women,Flip Flops,Coach,Pink,40,Yes,Yes,No,5
+d1431,01/12/18,15280,Women,Sneakers,Kate Spade,Red,37,Yes,No,No,5
+d1432,02/12/18,15746,Women,Sneakers,Kate Spade,Red,37,Yes,Yes,No,3
+d1433,03/12/18,15032,Women,Boots,Adidas,Blue,39,Yes,No,No,5
+d1434,04/12/18,13364,Women,Stilettos,Tommy Hilfiger,White,39,Yes,No,No,4
+d1435,05/12/18,14266,Women,Boots,Adidas,Blue,41,Yes,No,Yes,2
+d1436,06/12/18,13318,Women,Sneakers,Tommy Hilfiger,White,37,Yes,Yes,Yes,1
+d1437,07/12/18,13642,Women,Flip Flops,Kate Spade,Red,41,Yes,Yes,No,4
+d1438,08/12/18,12456,Women,Flip Flops,Adidas,Blue,39,Yes,Yes,No,4
+d1439,09/12/18,14462,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,Yes,2
+d1440,10/12/18,14703,Women,Boots,Aldo,Black,40,Yes,No,No,5
+d1441,11/12/18,13232,Women,Boots,Coach,Pink,41,Yes,No,No,5
+d1442,12/12/18,12837,Women,Stilettos,Kate Spade,Red,40,Yes,No,Yes,3
+d1443,13/12/18,12397,Women,Flip Flops,Adidas,Blue,38,Yes,Yes,No,5
+d1444,14/12/18,13123,Women,Boots,Tommy Hilfiger,White,40,Yes,No,No,5
+d1445,15/12/18,12667,Women,Boots,Coach,Pink,39,Yes,No,No,4
+d1446,16/12/18,12716,Women,Boots,Tommy Hilfiger,White,37,Yes,No,Yes,1
+d1447,17/12/18,12642,Women,Wedges,Kate Spade,Red,37,Yes,Yes,No,5
+d1448,18/12/18,13963,Women,Boots,Coach,Pink,40,Yes,Yes,No,5
+d1449,19/12/18,13395,Women,Flip Flops,Adidas,Blue,37,Yes,No,No,4
+d1450,20/12/18,13365,Women,Boots,Aldo,Black,37,Yes,No,No,5
+d1451,21/12/18,12620,Women,Boots,Kate Spade,Red,37,Yes,No,No,3
+d1452,22/12/18,13026,Women,Stilettos,Coach,Pink,39,Yes,No,No,5
+d1453,23/12/18,12801,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,No,5
+d1454,24/12/18,12906,Women,Boots,Kate Spade,Red,39,Yes,No,No,5
+d1455,25/12/18,12443,Women,Flip Flops,Adidas,Blue,37,Yes,No,No,4
+d1456,26/12/18,12501,Women,Sneakers,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d1457,27/12/18,13696,Women,Wedges,Coach,Pink,39,Yes,Yes,No,5
+d1458,28/12/18,13843,Women,Boots,Aldo,Black,40,Yes,No,No,5
+d1459,29/12/18,14301,Women,Sneakers,Coach,Pink,38,Yes,No,No,4
+d1460,30/12/18,13112,Women,Sneakers,Coach,Pink,38,Yes,Yes,No,5
+d1461,31/12/18,13039,Women,Boots,Coach,Pink,40,Yes,No,Yes,3
+d1462,01/01/19,12314,Women,Boots,Aldo,Black,39,Yes,Yes,No,5
+d1463,02/01/19,12156,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d1464,03/01/19,11701,Women,Flip Flops,Adidas,Blue,39,Yes,Yes,Yes,3
+d1465,04/01/19,11824,Women,Flip Flops,Tommy Hilfiger,White,37,Yes,No,No,5
+d1466,05/01/19,12934,Women,Boots,Adidas,Blue,38,Yes,No,No,5
+d1467,06/01/19,11750,Women,Boots,Coach,Pink,38,Yes,Yes,No,5
+d1468,07/01/19,11698,Women,Stilettos,Coach,Pink,40,Yes,Yes,Yes,3
+d1469,08/01/19,11950,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d1470,09/01/19,13327,Women,Sneakers,Coach,Pink,39,Yes,No,Yes,3
+d1471,10/01/19,12816,Women,Stilettos,Tommy Hilfiger,White,39,Yes,No,No,5
+d1472,11/01/19,12923,Women,Boots,Coach,Pink,39,Yes,No,No,5
+d1473,12/01/19,17572,Women,Flip Flops,Adidas,Blue,39,Yes,No,No,5
+d1474,13/01/19,13805,Women,Boots,Aldo,Black,40,Yes,No,Yes,3
+d1475,14/01/19,15645,Women,Sneakers,Coach,Pink,40,Yes,No,No,5
+d1476,15/01/19,18439,Women,Flip Flops,Coach,Pink,37,Yes,No,No,5
+d1477,16/01/19,23062,Women,Sneakers,Coach,Pink,40,Yes,Yes,No,5
+d1478,17/01/19,11720,Women,Flip Flops,Kate Spade,Red,37,Yes,No,No,3
+d1479,18/01/19,11789,Women,Sneakers,Adidas,Blue,41,No,No,Yes,1
+d1480,19/01/19,11944,Women,Sneakers,Aldo,Black,38,Yes,Yes,Yes,3
+d1481,20/01/19,11877,Women,Boots,Adidas,Blue,40,Yes,No,No,5
+d1482,21/01/19,11004,Women,Flip Flops,Tommy Hilfiger,White,37,Yes,No,No,5
+d1483,22/01/19,14225,Women,Wedges,Tommy Hilfiger,White,39,Yes,No,Yes,2
+d1484,23/01/19,14192,Women,Flip Flops,Adidas,Blue,40,Yes,No,No,4
+d1485,24/01/19,15547,Women,Flip Flops,Coach,Pink,40,Yes,No,Yes,1
+d1486,25/01/19,13239,Women,Boots,Tommy Hilfiger,White,41,Yes,Yes,Yes,1
+d1487,26/01/19,13994,Women,Stilettos,Coach,Pink,39,Yes,No,No,4
+d1488,27/01/19,13145,Women,Boots,Adidas,Blue,41,Yes,Yes,Yes,1
+d1489,28/01/19,13918,Women,Stilettos,Coach,Pink,37,Yes,Yes,Yes,1
+d1490,29/01/19,12297,Women,Flip Flops,Coach,Pink,38,Yes,Yes,Yes,1
+d1491,30/01/19,12586,Women,Flip Flops,Kate Spade,Red,39,Yes,No,No,5
+d1492,31/01/19,13274,Women,Sneakers,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d1493,01/02/19,13129,Women,Boots,Tommy Hilfiger,White,40,Yes,No,Yes,2
+d1494,02/02/19,13881,Women,Sneakers,Coach,Pink,38,Yes,Yes,No,4
+d1495,03/02/19,13575,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d1496,04/02/19,13314,Women,Sneakers,Tommy Hilfiger,White,37,Yes,Yes,Yes,1
+d1497,05/02/19,12779,Women,Flip Flops,Aldo,Black,39,Yes,Yes,No,4
+d1498,06/02/19,12394,Women,Boots,Kate Spade,Red,38,Yes,Yes,Yes,1
+d1499,07/02/19,12168,Women,Stilettos,Adidas,Blue,41,Yes,No,Yes,1
+d1500,08/02/19,13436,Women,Sneakers,Kate Spade,Red,38,Yes,Yes,Yes,1
+d1501,09/02/19,13146,Women,Sneakers,Kate Spade,Red,38,Yes,No,No,5
+d1502,10/02/19,13375,Women,Wedges,Aldo,Black,40,Yes,No,No,5
+d1503,11/02/19,12545,Women,Sneakers,Kate Spade,Red,41,Yes,No,Yes,1
+d1504,12/02/19,12974,Women,Stilettos,Coach,Pink,39,Yes,No,Yes,1
+d1505,13/02/19,13346,Women,Boots,Adidas,Blue,38,Yes,Yes,Yes,3
+d1506,14/02/19,12665,Women,Flip Flops,Adidas,Blue,39,Yes,No,No,4
+d1507,15/02/19,12905,Women,Boots,Coach,Pink,38,Yes,No,Yes,2
+d1508,16/02/19,12129,Women,Flip Flops,Adidas,Blue,41,Yes,No,No,5
+d1509,17/02/19,14031,Women,Flip Flops,Coach,Pink,39,Yes,No,No,5
+d1510,18/02/19,13541,Women,Flip Flops,Aldo,Black,41,Yes,Yes,Yes,1
+d1511,19/02/19,14841,Women,Boots,Adidas,Blue,41,Yes,No,No,5
+d1512,20/02/19,13047,Women,Flip Flops,Kate Spade,Red,41,Yes,No,No,5
+d1513,21/02/19,12977,Women,Flip Flops,Aldo,Black,39,Yes,Yes,Yes,1
+d1514,22/02/19,12494,Women,Sneakers,Aldo,Black,40,Yes,Yes,Yes,1
+d1515,23/02/19,12708,Women,Boots,Coach,Pink,37,Yes,No,Yes,3
+d1516,24/02/19,12357,Women,Stilettos,Aldo,Black,38,Yes,Yes,No,4
+d1517,25/02/19,11905,Women,Boots,Tommy Hilfiger,White,38,Yes,No,Yes,2
+d1518,26/02/19,13462,Women,Wedges,Aldo,Black,37,Yes,Yes,No,5
+d1519,27/02/19,12863,Women,Sneakers,Tommy Hilfiger,White,41,Yes,No,No,5
+d1520,28/02/19,13251,Women,Boots,Tommy Hilfiger,White,40,Yes,Yes,Yes,1
+d1521,01/03/19,13106,Women,Boots,Coach,Pink,39,Yes,No,No,5
+d1522,02/03/19,14582,Women,Sneakers,Aldo,Black,37,Yes,Yes,No,5
+d1523,03/03/19,13660,Women,Flip Flops,Coach,Pink,41,Yes,No,No,5
+d1524,04/03/19,13150,Women,Sneakers,Aldo,Black,38,Yes,No,No,5
+d1525,05/03/19,18489,Women,Stilettos,Tommy Hilfiger,White,40,Yes,No,No,5
+d1526,06/03/19,13993,Women,Flip Flops,Adidas,Blue,38,Yes,Yes,No,4
+d1527,07/03/19,16466,Women,Boots,Tommy Hilfiger,White,41,Yes,No,No,4
+d1528,08/03/19,17839,Women,Sneakers,Kate Spade,Red,41,Yes,No,No,5
+d1529,09/03/19,22135,Women,Boots,Tommy Hilfiger,White,39,Yes,No,No,4
+d1530,10/03/19,13520,Women,Flip Flops,Kate Spade,Red,40,Yes,Yes,No,5
+d1531,11/03/19,12838,Women,Flip Flops,Coach,Pink,38,Yes,No,No,5
+d1532,12/03/19,12647,Women,Sneakers,Aldo,Black,41,Yes,Yes,No,5
+d1533,13/03/19,12073,Women,Boots,Adidas,Blue,39,Yes,No,No,5
+d1534,14/03/19,11626,Women,Flip Flops,Kate Spade,Red,38,Yes,No,No,5
+d1535,15/03/19,13767,Women,Wedges,Tommy Hilfiger,White,39,Yes,No,No,5
+d1536,16/03/19,15742,Women,Sneakers,Tommy Hilfiger,White,37,Yes,No,No,4
+d1537,17/03/19,15696,Women,Sneakers,Adidas,Blue,38,Yes,No,No,4
+d1538,18/03/19,13794,Women,Boots,Kate Spade,Red,37,Yes,No,No,5
+d1539,19/03/19,14383,Women,Boots,Tommy Hilfiger,White,38,Yes,No,No,4
+d1540,20/03/19,14133,Women,Stilettos,Adidas,Blue,40,Yes,Yes,No,5
+d1541,21/03/19,14418,Women,Boots,Adidas,Blue,37,Yes,No,No,5
+d1542,22/03/19,13005,Women,Sneakers,Tommy Hilfiger,White,37,Yes,No,No,5
+d1543,23/03/19,13001,Women,Flip Flops,Aldo,Black,39,Yes,No,No,4
+d1544,24/03/19,15963,Women,Stilettos,Tommy Hilfiger,White,37,Yes,No,No,5
+d1545,25/03/19,14727,Women,Sneakers,Adidas,Blue,41,Yes,No,Yes,1
+d1546,26/03/19,13153,Women,Stilettos,Tommy Hilfiger,White,37,Yes,No,Yes,1
+d1547,27/03/19,12362,Women,Sneakers,Coach,Pink,38,Yes,No,Yes,1
+d1548,28/03/19,13702,Women,Boots,Kate Spade,Red,41,Yes,No,No,5
+d1549,29/03/19,13001,Women,Flip Flops,Aldo,Black,38,Yes,Yes,Yes,1
+d1550,30/03/19,13524,Women,Sneakers,Kate Spade,Red,38,Yes,No,No,5
+d1551,31/03/19,12973,Women,Wedges,Kate Spade,Red,39,Yes,No,Yes,3
+d1552,01/04/19,13615,Women,Sneakers,Kate Spade,Red,37,Yes,No,No,4
+d1553,02/04/19,14143,Women,Boots,Tommy Hilfiger,White,40,Yes,Yes,No,4
+d1554,03/04/19,14178,Women,Flip Flops,Coach,Pink,38,No,Yes,No,5
+d1555,04/04/19,13556,Women,Sneakers,Coach,Pink,39,Yes,No,Yes,1
+d1556,05/04/19,12970,Women,Stilettos,Tommy Hilfiger,White,41,Yes,No,Yes,1
+d1557,06/04/19,14611,Women,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,Yes,1
+d1558,07/04/19,13202,Women,Flip Flops,Kate Spade,Red,39,Yes,Yes,No,5
+d1559,08/04/19,13444,Women,Sneakers,Coach,Pink,37,Yes,Yes,Yes,1
+d1560,09/04/19,12723,Women,Sneakers,Coach,Pink,41,Yes,No,No,5
+d1561,10/04/19,13993,Women,Flip Flops,Adidas,Blue,40,Yes,No,Yes,3
+d1562,11/04/19,13889,Women,Sneakers,Kate Spade,Red,39,Yes,No,No,4
+d1563,12/04/19,14213,Women,Boots,Adidas,Blue,39,Yes,Yes,No,5
+d1564,13/04/19,14095,Women,Wedges,Aldo,Black,39,Yes,Yes,No,5
+d1565,14/04/19,13728,Women,Boots,Coach,Pink,40,Yes,No,No,5
+d1566,15/04/19,13045,Women,Boots,Aldo,Black,38,Yes,No,No,5
+d1567,16/04/19,12676,Women,Boots,Coach,Pink,40,Yes,No,Yes,1
+d1568,17/04/19,13261,Women,Stilettos,Aldo,Black,40,Yes,No,No,5
+d1569,18/04/19,12274,Women,Boots,Kate Spade,Red,38,Yes,Yes,No,5
+d1570,19/04/19,14227,Women,Boots,Kate Spade,Red,37,Yes,No,No,5
+d1571,20/04/19,13119,Women,Sneakers,Adidas,Blue,39,Yes,No,No,5
+d1572,21/04/19,12320,Women,Wedges,Adidas,Blue,38,Yes,Yes,No,5
+d1573,22/04/19,12007,Women,Boots,Adidas,Blue,39,Yes,No,Yes,1
+d1574,23/04/19,11000,Women,Sneakers,Coach,Pink,40,Yes,Yes,No,5
+d1575,24/04/19,11178,Women,Stilettos,Kate Spade,Red,40,Yes,No,No,4
+d1576,25/04/19,10954,Women,Stilettos,Tommy Hilfiger,White,37,Yes,Yes,No,4
+d1577,26/04/19,10486,Women,Boots,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d1578,27/04/19,10770,Women,Boots,Tommy Hilfiger,White,41,Yes,No,No,5
+d1579,28/04/19,9855,Women,Flip Flops,Coach,Pink,40,Yes,No,No,4
+d1580,29/04/19,9720,Women,Flip Flops,Kate Spade,Red,40,Yes,Yes,No,5
+d1581,30/04/19,9816,Women,Boots,Aldo,Black,38,Yes,No,No,5
+d1582,01/05/19,10118,Women,Stilettos,Coach,Pink,38,Yes,No,No,5
+d1583,02/05/19,10412,Women,Stilettos,Kate Spade,Red,41,Yes,No,No,5
+d1584,03/05/19,9579,Women,Sneakers,Aldo,Black,41,Yes,No,No,5
+d1585,04/05/19,9938,Women,Boots,Adidas,Blue,38,Yes,No,No,4
+d1586,05/05/19,9542,Women,Boots,Kate Spade,Red,39,Yes,No,No,4
+d1587,06/05/19,10432,Women,Stilettos,Aldo,Black,38,Yes,No,No,5
+d1588,07/05/19,9660,Women,Sneakers,Kate Spade,Red,39,Yes,No,No,5
+d1589,08/05/19,9583,Women,Boots,Adidas,Blue,38,Yes,No,No,4
+d1590,09/05/19,9554,Women,Sneakers,Aldo,Black,41,Yes,Yes,No,5
+d1591,10/05/19,10493,Women,Flip Flops,Adidas,Blue,40,Yes,No,No,5
+d1592,11/05/19,10160,Women,Flip Flops,Kate Spade,Red,38,Yes,Yes,No,5
+d1593,12/05/19,9562,Women,Flip Flops,Adidas,Blue,39,Yes,No,No,5
+d1594,13/05/19,9580,Women,Sneakers,Aldo,Black,40,Yes,Yes,No,5
+d1595,14/05/19,9519,Women,Sneakers,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d1596,15/05/19,9435,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d1597,16/05/19,9164,Women,Flip Flops,Adidas,Blue,38,Yes,No,No,5
+d1598,17/05/19,9124,Women,Flip Flops,Aldo,Black,41,Yes,No,No,5
+d1599,18/05/19,9135,Women,Sneakers,Adidas,Blue,39,Yes,No,No,5
+d1600,19/05/19,9675,Women,Boots,Tommy Hilfiger,White,37,Yes,No,No,4
+d1601,20/05/19,9282,Women,Sneakers,Coach,Pink,41,Yes,Yes,No,5
+d1602,21/05/19,9484,Women,Flip Flops,Tommy Hilfiger,White,41,Yes,No,No,5
+d1603,22/05/19,10045,Women,Boots,Aldo,Black,38,Yes,No,No,4
+d1604,23/05/19,10757,Women,Flip Flops,Aldo,Black,39,Yes,Yes,Yes,1
+d1605,24/05/19,9031,Women,Stilettos,Adidas,Blue,40,Yes,Yes,No,5
+d1606,25/05/19,8528,Women,Stilettos,Kate Spade,Red,39,Yes,No,No,5
+d1607,26/05/19,8519,Women,Wedges,Kate Spade,Red,40,Yes,No,No,5
+d1608,27/05/19,8509,Women,Stilettos,Aldo,Black,37,Yes,No,No,5
+d1609,28/05/19,9183,Women,Flip Flops,Aldo,Black,41,Yes,Yes,No,5
+d1610,29/05/19,8624,Women,Boots,Coach,Pink,40,Yes,Yes,No,4
+d1611,30/05/19,8578,Women,Stilettos,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d1612,31/05/19,9552,Women,Boots,Tommy Hilfiger,White,39,Yes,No,No,5
+d1613,01/06/19,9296,Women,Flip Flops,Coach,Pink,41,Yes,No,No,4
+d1614,02/06/19,9424,Women,Stilettos,Adidas,Blue,39,Yes,No,Yes,1
+d1615,03/06/19,8944,Women,Wedges,Tommy Hilfiger,White,37,Yes,No,Yes,1
+d1616,04/06/19,16013,Women,Sneakers,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d1617,05/06/19,10695,Women,Boots,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d1618,06/06/19,11219,Women,Flip Flops,Coach,Pink,41,Yes,No,No,5
+d1619,07/06/19,12956,Women,Boots,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d1620,08/06/19,17682,Women,Boots,Kate Spade,Red,38,Yes,No,No,4
+d1621,09/06/19,8917,Women,Flip Flops,Adidas,Blue,41,Yes,No,No,4
+d1622,10/06/19,9101,Women,Sneakers,Coach,Pink,39,Yes,No,No,5
+d1623,11/06/19,8120,Women,Stilettos,Aldo,Black,40,Yes,No,No,4
+d1624,12/06/19,8021,Women,Sneakers,Kate Spade,Red,38,Yes,No,No,5
+d1625,13/06/19,8731,Women,Sneakers,Tommy Hilfiger,White,40,Yes,Yes,Yes,1
+d1626,14/06/19,10460,Women,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d1627,15/06/19,10864,Women,Stilettos,Tommy Hilfiger,White,40,Yes,No,No,5
+d1628,16/06/19,11284,Women,Boots,Tommy Hilfiger,White,41,Yes,No,No,5
+d1629,17/06/19,10462,Women,Sneakers,Adidas,Blue,41,Yes,Yes,No,5
+d1630,18/06/19,10852,Women,Flip Flops,Adidas,Blue,37,Yes,Yes,No,4
+d1631,19/06/19,9976,Women,Sneakers,Adidas,Blue,38,Yes,No,No,4
+d1632,20/06/19,10095,Women,Sneakers,Adidas,Blue,40,Yes,No,No,5
+d1633,21/06/19,9541,Women,Flip Flops,Adidas,Blue,40,Yes,No,No,4
+d1634,22/06/19,10054,Women,Boots,Tommy Hilfiger,White,38,Yes,No,No,5
+d1635,23/06/19,9983,Women,Boots,Aldo,Black,39,Yes,Yes,Yes,1
+d1636,24/06/19,9909,Women,Sneakers,Adidas,Blue,39,Yes,No,No,5
+d1637,25/06/19,10160,Women,Sneakers,Kate Spade,Red,40,Yes,Yes,No,5
+d1638,26/06/19,9949,Women,Flip Flops,Coach,Pink,41,Yes,Yes,No,5
+d1639,27/06/19,10211,Women,Sneakers,Coach,Pink,38,Yes,No,No,5
+d1640,28/06/19,9770,Women,Sneakers,Adidas,Blue,37,Yes,No,Yes,1
+d1641,29/06/19,9241,Women,Flip Flops,Tommy Hilfiger,White,37,Yes,No,No,5
+d1642,30/06/19,9643,Women,Flip Flops,Coach,Pink,39,Yes,Yes,No,5
+d1643,01/07/19,9703,Women,Sneakers,Adidas,Blue,38,Yes,No,No,5
+d1644,02/07/19,9969,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,Yes,Yes,1
+d1645,03/07/19,9865,Women,Flip Flops,Tommy Hilfiger,White,41,Yes,Yes,Yes,1
+d1646,04/07/19,9972,Women,Stilettos,Adidas,Blue,37,Yes,Yes,No,5
+d1647,05/07/19,9619,Women,Wedges,Aldo,Black,37,Yes,No,No,5
+d1648,06/07/19,9437,Women,Sneakers,Coach,Pink,38,Yes,Yes,No,5
+d1649,07/07/19,9360,Women,Boots,Coach,Pink,39,Yes,No,No,5
+d1650,08/07/19,9222,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d1651,09/07/19,8905,Women,Sneakers,Adidas,Blue,41,Yes,Yes,No,5
+d1652,10/07/19,9887,Women,Boots,Kate Spade,Red,37,Yes,No,No,5
+d1653,11/07/19,9559,Women,Flip Flops,Adidas,Blue,41,Yes,Yes,No,5
+d1654,12/07/19,9668,Women,Sneakers,Adidas,Blue,37,Yes,No,Yes,1
+d1655,13/07/19,10175,Women,Stilettos,Kate Spade,Red,41,Yes,Yes,No,4
+d1656,14/07/19,10520,Women,Sneakers,Aldo,Black,38,Yes,Yes,Yes,2
+d1657,15/07/19,9228,Women,Boots,Tommy Hilfiger,White,39,Yes,No,No,4
+d1658,16/07/19,8892,Women,Sneakers,Adidas,Blue,41,Yes,No,No,5
+d1659,17/07/19,8716,Women,Flip Flops,Kate Spade,Red,39,Yes,Yes,Yes,1
+d1660,18/07/19,8664,Women,Flip Flops,Coach,Pink,38,Yes,No,No,4
+d1661,19/07/19,9512,Women,Boots,Coach,Pink,41,Yes,Yes,No,5
+d1662,20/07/19,9276,Women,Sneakers,Kate Spade,Red,41,Yes,Yes,Yes,1
+d1663,21/07/19,9386,Women,Stilettos,Tommy Hilfiger,White,37,Yes,Yes,No,5
+d1664,22/07/19,9909,Women,Flip Flops,Coach,Pink,39,Yes,No,No,4
+d1665,23/07/19,10519,Women,Flip Flops,Adidas,Blue,37,Yes,Yes,Yes,2
+d1666,24/07/19,10950,Women,Sneakers,Aldo,Black,37,Yes,Yes,No,4
+d1667,25/07/19,9706,Women,Boots,Aldo,Black,41,Yes,Yes,No,5
+d1668,26/07/19,15919,Women,Flip Flops,Coach,Pink,40,Yes,No,Yes,1
+d1669,27/07/19,10713,Women,Boots,Kate Spade,Red,39,Yes,No,No,4
+d1670,28/07/19,11896,Women,Stilettos,Coach,Pink,37,Yes,No,No,5
+d1671,29/07/19,12934,Women,Flip Flops,Coach,Pink,40,Yes,No,Yes,1
+d1672,30/07/19,16176,Women,Stilettos,Aldo,Black,40,Yes,No,No,5
+d1673,31/07/19,11116,Women,Sneakers,Aldo,Black,38,Yes,Yes,No,5
+d1674,01/08/19,9458,Women,Boots,Aldo,Black,37,Yes,No,No,5
+d1675,02/08/19,8654,Women,Boots,Kate Spade,Red,41,Yes,No,Yes,1
+d1676,03/08/19,8559,Women,Boots,Kate Spade,Red,41,Yes,No,No,5
+d1677,04/08/19,8882,Women,Flip Flops,Adidas,Blue,37,Yes,No,No,5
+d1678,05/08/19,10587,Women,Flip Flops,Aldo,Black,41,Yes,No,Yes,3
+d1679,06/08/19,11993,Women,Stilettos,Kate Spade,Red,38,Yes,Yes,No,5
+d1680,07/08/19,12400,Women,Boots,Coach,Pink,40,Yes,Yes,No,5
+d1681,08/08/19,11120,Women,Boots,Aldo,Black,41,Yes,Yes,No,5
+d1682,09/08/19,11476,Women,Boots,Adidas,Blue,38,Yes,No,No,5
+d1683,10/08/19,11132,Women,Flip Flops,Kate Spade,Red,37,Yes,Yes,No,5
+d1684,11/08/19,10884,Women,Stilettos,Coach,Pink,39,Yes,Yes,No,5
+d1685,12/08/19,10454,Women,Stilettos,Kate Spade,Red,40,Yes,No,Yes,1
+d1686,13/08/19,10253,Women,Boots,Kate Spade,Red,39,Yes,Yes,No,5
+d1687,14/08/19,11287,Women,Boots,Adidas,Blue,40,Yes,No,No,5
+d1688,15/08/19,10838,Women,Sneakers,Kate Spade,Red,40,Yes,No,Yes,3
+d1689,16/08/19,10064,Women,Flip Flops,Aldo,Black,39,Yes,No,No,5
+d1690,17/08/19,10042,Women,Flip Flops,Adidas,Blue,38,Yes,No,No,5
+d1691,18/08/19,10734,Women,Sneakers,Coach,Pink,37,Yes,Yes,No,5
+d1692,19/08/19,10419,Women,Boots,Aldo,Black,39,Yes,No,No,5
+d1693,20/08/19,10204,Women,Sneakers,Kate Spade,Red,38,Yes,No,No,4
+d1694,21/08/19,9915,Women,Wedges,Tommy Hilfiger,White,41,Yes,No,No,5
+d1695,22/08/19,9813,Women,Sneakers,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d1696,23/08/19,10862,Women,Boots,Aldo,Black,40,Yes,No,No,5
+d1697,24/08/19,10195,Women,Stilettos,Kate Spade,Red,38,Yes,Yes,No,5
+d1698,25/08/19,9813,Women,Flip Flops,Adidas,Blue,38,Yes,No,Yes,2
+d1699,26/08/19,9431,Women,Wedges,Coach,Pink,39,Yes,Yes,No,5
+d1700,27/08/19,10148,Women,Boots,Tommy Hilfiger,White,40,Yes,No,Yes,1
+d1701,28/08/19,9603,Women,Wedges,Adidas,Blue,37,Yes,No,Yes,2
+d1702,29/08/19,9415,Women,Sneakers,Kate Spade,Red,39,Yes,No,No,4
+d1703,30/08/19,9169,Women,Sneakers,Coach,Pink,39,Yes,No,No,4
+d1704,31/08/19,9586,Women,Boots,Aldo,Black,40,Yes,No,No,5
+d1705,01/09/19,9846,Women,Stilettos,Adidas,Blue,37,Yes,No,No,5
+d1706,02/09/19,10050,Women,Boots,Tommy Hilfiger,White,41,Yes,Yes,No,5
+d1707,03/09/19,10481,Women,Stilettos,Kate Spade,Red,38,Yes,Yes,No,5
+d1708,04/09/19,10619,Women,Sneakers,Aldo,Black,38,Yes,Yes,Yes,2
+d1709,05/09/19,9551,Women,Flip Flops,Coach,Pink,41,Yes,Yes,No,5
+d1710,06/09/19,8858,Women,Boots,Kate Spade,Red,37,Yes,Yes,Yes,1
+d1711,07/09/19,9227,Women,Wedges,Adidas,Blue,41,Yes,No,Yes,2
+d1712,08/09/19,8804,Women,Flip Flops,Kate Spade,Red,37,Yes,Yes,No,4
+d1713,09/09/19,9798,Women,Flip Flops,Coach,Pink,41,Yes,No,No,4
+d1714,10/09/19,9349,Women,Sneakers,Tommy Hilfiger,White,39,Yes,No,No,5
+d1715,11/09/19,9609,Women,Flip Flops,Kate Spade,Red,40,Yes,No,No,5
+d1716,12/09/19,9746,Women,Wedges,Kate Spade,Red,37,Yes,No,No,5
+d1717,13/09/19,19672,Women,Stilettos,Aldo,Black,38,Yes,No,No,5
+d1718,14/09/19,20309,Women,Boots,Tommy Hilfiger,White,41,Yes,Yes,Yes,2
+d1719,15/09/19,19702,Women,Flip Flops,Adidas,Blue,39,Yes,No,No,5
+d1720,16/09/19,18178,Women,Sneakers,Kate Spade,Red,41,Yes,No,Yes,1
+d1721,17/09/19,19399,Women,Flip Flops,Kate Spade,Red,37,Yes,No,Yes,2
+d1722,18/09/19,18406,Women,Sneakers,Adidas,Blue,40,Yes,No,No,4
+d1723,19/09/19,18797,Women,Sneakers,Aldo,Black,39,Yes,Yes,No,4
+d1724,20/09/19,18820,Women,Flip Flops,Kate Spade,Red,41,Yes,No,No,5
+d1725,21/09/19,21424,Women,Sneakers,Tommy Hilfiger,White,38,Yes,Yes,No,5
+d1726,22/09/19,18983,Women,Stilettos,Kate Spade,Red,38,Yes,Yes,No,5
+d1727,23/09/19,18196,Women,Flip Flops,Kate Spade,Red,38,Yes,No,No,5
+d1728,24/09/19,19093,Women,Flip Flops,Coach,Pink,41,Yes,No,Yes,2
+d1729,25/09/19,17858,Women,Stilettos,Coach,Pink,37,Yes,Yes,No,5
+d1730,26/09/19,20054,Women,Flip Flops,Aldo,Black,40,Yes,No,Yes,1
+d1731,27/09/19,18902,Women,Boots,Coach,Pink,37,Yes,No,Yes,2
+d1732,28/09/19,18536,Women,Flip Flops,Coach,Pink,41,Yes,Yes,No,4
+d1733,29/09/19,18773,Women,Sneakers,Adidas,Blue,39,No,No,No,4
+d1734,30/09/19,20227,Women,Flip Flops,Kate Spade,Red,39,Yes,No,Yes,3
+d1735,01/10/19,20378,Women,Sneakers,Kate Spade,Red,41,Yes,No,Yes,1
+d1736,02/10/19,20034,Women,Boots,Coach,Pink,37,Yes,No,Yes,1
+d1737,03/10/19,19703,Women,Sneakers,Adidas,Blue,40,Yes,Yes,Yes,1
+d1738,04/10/19,20183,Women,Stilettos,Coach,Pink,38,Yes,No,No,5
+d1739,05/10/19,18708,Women,Flip Flops,Coach,Pink,37,Yes,No,No,5
+d1740,06/10/19,19322,Women,Flip Flops,Coach,Pink,39,Yes,No,No,4
+d1741,07/10/19,19073,Women,Sneakers,Coach,Pink,40,Yes,No,No,5
+d1742,08/10/19,18178,Women,Sneakers,Aldo,Black,37,Yes,Yes,Yes,1
+d1743,09/10/19,19691,Women,Sneakers,Coach,Pink,37,Yes,Yes,No,4
+d1744,10/10/19,18775,Women,Boots,Aldo,Black,38,Yes,Yes,Yes,3
+d1745,11/10/19,19973,Women,Boots,Adidas,Blue,41,Yes,Yes,Yes,1
+d1746,12/10/19,19082,Women,Sneakers,Tommy Hilfiger,White,39,Yes,No,Yes,1
+d1747,13/10/19,19118,Women,Boots,Adidas,Blue,37,Yes,Yes,Yes,1
+d1748,14/10/19,17721,Women,Boots,Kate Spade,Red,37,Yes,No,No,5
+d1749,15/10/19,17902,Women,Flip Flops,Kate Spade,Red,37,Yes,No,No,5
+d1750,16/10/19,17056,Women,Boots,Kate Spade,Red,38,Yes,Yes,No,4
+d1751,17/10/19,17655,Women,Wedges,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d1752,18/10/19,18719,Women,Sneakers,Adidas,Blue,40,Yes,Yes,Yes,1
+d1753,19/10/19,18514,Women,Flip Flops,Kate Spade,Red,37,Yes,No,Yes,2
+d1754,20/10/19,17969,Women,Stilettos,Coach,Pink,39,Yes,Yes,No,4
+d1755,21/10/19,18878,Women,Stilettos,Aldo,Black,41,Yes,Yes,No,5
+d1756,22/10/19,18549,Women,Boots,Aldo,Black,41,Yes,No,No,5
+d1757,23/10/19,19399,Women,Sneakers,Coach,Pink,40,Yes,Yes,No,5
+d1758,24/10/19,19253,Women,Boots,Coach,Pink,41,Yes,No,No,5
+d1759,25/10/19,27664,Women,Sneakers,Kate Spade,Red,40,Yes,No,Yes,1
+d1760,26/10/19,20833,Women,Flip Flops,Adidas,Blue,40,Yes,No,No,4
+d1761,27/10/19,24614,Women,Sneakers,Adidas,Blue,40,Yes,No,No,5
+d1762,28/10/19,27716,Women,Sneakers,Adidas,Blue,39,Yes,No,Yes,1
+d1763,29/10/19,35959,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,Yes,2
+d1764,30/10/19,16752,Women,Flip Flops,Coach,Pink,40,Yes,Yes,No,4
+d1765,31/10/19,17445,Women,Sneakers,Kate Spade,Red,39,Yes,Yes,No,5
+d1766,01/11/19,16823,Women,Flip Flops,Kate Spade,Red,38,Yes,No,No,5
+d1767,02/11/19,17701,Women,Wedges,Tommy Hilfiger,White,38,Yes,No,No,5
+d1768,03/11/19,16336,Women,Stilettos,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d1769,04/11/19,18481,Women,Stilettos,Adidas,Blue,39,Yes,Yes,Yes,1
+d1770,05/11/19,19444,Women,Sneakers,Tommy Hilfiger,White,40,Yes,No,No,4
+d1771,06/11/19,20034,Women,Boots,Adidas,Blue,40,Yes,No,No,5
+d1772,07/11/19,18319,Women,Flip Flops,Coach,Pink,40,Yes,Yes,Yes,1
+d1773,08/11/19,18949,Women,Boots,Adidas,Blue,40,Yes,Yes,No,5
+d1774,09/11/19,18524,Women,Sneakers,Aldo,Black,37,Yes,No,Yes,1
+d1775,10/11/19,18524,Women,Sneakers,Aldo,Black,39,Yes,No,No,4
+d1776,11/11/19,18075,Women,Flip Flops,Aldo,Black,41,Yes,Yes,No,5
+d1777,12/11/19,18642,Women,Wedges,Tommy Hilfiger,White,39,Yes,Yes,No,4
+d1778,13/11/19,18874,Women,Sneakers,Tommy Hilfiger,White,37,Yes,No,No,5
+d1779,14/11/19,19509,Women,Sneakers,Coach,Pink,41,Yes,Yes,Yes,1
+d1780,15/11/19,21243,Women,Sneakers,Tommy Hilfiger,White,37,Yes,No,Yes,3
+d1781,16/11/19,18955,Women,Flip Flops,Aldo,Black,41,Yes,Yes,Yes,1
+d1782,17/11/19,19863,Women,Sneakers,Aldo,Black,37,Yes,No,No,5
+d1783,18/11/19,19588,Women,Flip Flops,Kate Spade,Red,41,Yes,No,No,5
+d1784,19/11/19,18609,Women,Boots,Kate Spade,Red,40,Yes,No,Yes,1
+d1785,20/11/19,18663,Women,Boots,Aldo,Black,41,Yes,No,No,4
+d1786,21/11/19,19355,Women,Sneakers,Coach,Pink,37,Yes,No,No,5
+d1787,22/11/19,19978,Women,Flip Flops,Coach,Pink,39,Yes,Yes,No,4
+d1788,23/11/19,20864,Women,Flip Flops,Coach,Pink,40,Yes,Yes,No,5
+d1789,24/11/19,20091,Women,Flip Flops,Adidas,Blue,38,Yes,No,Yes,1
+d1790,25/11/19,20480,Women,Flip Flops,Aldo,Black,41,Yes,Yes,Yes,3
+d1791,26/11/19,20216,Women,Flip Flops,Aldo,Black,37,Yes,No,Yes,1
+d1792,27/11/19,19568,Women,Wedges,Kate Spade,Red,38,Yes,No,No,5
+d1793,28/11/19,19870,Women,Flip Flops,Kate Spade,Red,37,Yes,Yes,No,5
+d1794,29/11/19,18807,Women,Boots,Aldo,Black,41,Yes,No,No,5
+d1795,30/11/19,20762,Women,Flip Flops,Kate Spade,Red,41,Yes,No,No,4
+d1796,01/12/19,19703,Women,Stilettos,Aldo,Black,38,Yes,No,No,4
+d1797,02/12/19,20903,Women,Sneakers,Aldo,Black,41,Yes,Yes,Yes,1
+d1798,03/12/19,20352,Women,Stilettos,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d1799,04/12/19,19536,Women,Wedges,Kate Spade,Red,39,Yes,No,No,5
+d1800,05/12/19,18729,Women,Wedges,Coach,Pink,37,Yes,No,No,4
+d1801,06/12/19,19232,Women,Flip Flops,Kate Spade,Red,37,Yes,No,No,4
+d1802,07/12/19,18474,Women,Flip Flops,Coach,Pink,38,Yes,Yes,Yes,1
+d1803,08/12/19,18356,Women,Stilettos,Coach,Pink,41,Yes,Yes,No,5
+d1804,09/12/19,20672,Women,Stilettos,Coach,Pink,37,Yes,No,Yes,1
+d1805,10/12/19,19296,Women,Boots,Adidas,Blue,38,Yes,Yes,Yes,1
+d1806,11/12/19,19735,Women,Sneakers,Coach,Pink,38,Yes,No,No,5
+d1807,12/12/19,19487,Women,Flip Flops,Tommy Hilfiger,White,39,Yes,No,No,5
+d1808,13/12/19,20363,Women,Sneakers,Aldo,Black,39,Yes,No,No,5
+d1809,14/12/19,21115,Women,Stilettos,Coach,Pink,38,No,No,No,5
+d1810,15/12/19,20163,Women,Flip Flops,Tommy Hilfiger,White,38,Yes,No,No,5
+d1811,16/12/19,28641,Women,Sneakers,Coach,Pink,40,Yes,No,Yes,1
+d1812,17/12/19,20513,Women,Flip Flops,Adidas,Blue,40,Yes,Yes,No,5
+d1813,18/12/19,24627,Women,Stilettos,Adidas,Blue,38,Yes,Yes,No,5
+d1814,19/12/19,27603,Women,Flip Flops,Kate Spade,Red,40,Yes,No,Yes,1
+d1815,20/12/19,35567,Women,Flip Flops,Aldo,Black,40,Yes,Yes,Yes,1
+d1816,21/12/19,19690,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,No,5
+d1817,22/12/19,18657,Women,Boots,Tommy Hilfiger,White,41,Yes,No,No,5
+d1818,23/12/19,17949,Women,Stilettos,Tommy Hilfiger,White,40,Yes,Yes,No,5
+d1819,24/12/19,18116,Women,Flip Flops,Coach,Pink,40,Yes,Yes,No,5
+d1820,25/12/19,17339,Women,Stilettos,Tommy Hilfiger,White,37,Yes,No,No,5
+d1821,26/12/19,19277,Women,Wedges,Kate Spade,Red,39,Yes,Yes,Yes,1
+d1822,27/12/19,20692,Women,Sneakers,Tommy Hilfiger,White,39,Yes,Yes,No,5
+d1823,28/12/19,22144,Women,Sneakers,Coach,Pink,40,Yes,No,Yes,1
+d1824,29/12/19,19297,Women,Flip Flops,Tommy Hilfiger,White,40,Yes,No,Yes,3
+d1825,30/12/19,19697,Women,Sneakers,Tommy Hilfiger,White,38,Yes,No,Yes,1
+d1826,31/12/19,19864,Women,Flip Flops,Aldo,Black,38,Yes,No,Yes,1
